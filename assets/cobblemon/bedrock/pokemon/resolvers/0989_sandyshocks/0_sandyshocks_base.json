@@ -6,14 +6,15 @@
       "aspects": [],
       "poser": "cobblemon:sandyshocks",
       "model": "cobblemon:sandyshocks.geo",
-      "texture": "cobblemon:textures/pokemon/0989_sandyshocks/sandyshocks.png",
+      "texture": "cobblemon:textures/pokemon/sandyshocks/sandyshocks.png",
       "layers": []
     },
     {
-      "aspects": [
-        "shiny"
-      ],
-      "texture": "cobblemon:textures/pokemon/0989_sandyshocks/sandyshocks_shiny.png"
+      "aspects": ["shiny"],
+      "poser": "cobblemon:sandyshocks",
+      "model": "cobblemon:sandyshocks.geo",
+      "texture": "cobblemon:textures/pokemon/sandyshocks/sandyshocks_shiny.png",
+      "layers": []
     }
   ]
 }

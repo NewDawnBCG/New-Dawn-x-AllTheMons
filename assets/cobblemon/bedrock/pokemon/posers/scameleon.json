@@ -1,53 +1,52 @@
 {
-  "portraitScale": 1.4,
-  "portraitTranslation": [0, 1.6, 0],
+  "portraitScale": 1.2,
+  "portraitTranslation": [0, 2.2, 0],
   "profileScale": 0.5,
   "profileTranslation": [0, 1, 0],
   "animations": {
-    "cry": "q.bedrock_stateful('sandyshocks', 'cry')",
-    "faint": "q.bedrock_primary('sandyshocks', 'faint', q.curve('one'))"
+    "cry": "q.bedrock_stateful('scameleon', 'cry')"
   },
   "poses": {
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
       "animations": [
-        "q.bedrock('sandyshocks', 'battle_idle')"
+        "q.bedrock('scameleon', 'battle_idle')"
       ],
-      "quirks": ["q.bedrock_quirk('sandyshocks', 'blink')"]
+      "quirks": ["q.bedrock_quirk('scameleon', 'blink')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_idle')"
+        "q.bedrock('scameleon', 'ground_idle')"
       ],
       "quirks": [
-        "q.bedrock_quirk('sandyshocks', 'blink')"
+        "q.bedrock_quirk('scameleon', 'blink')"
       ]
     },
     "walking": {
       "poseTypes": ["WALK"],
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_walk')"
+        "q.bedrock('scameleon', 'ground_walk')"
       ],
-      "quirks": ["q.bedrock_quirk('sandyshocks', 'blink')"]
+      "quirks": ["q.bedrock_quirk('scameleon', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_idle')"
+        "q.bedrock('scameleon', 'ground_idle')"
       ]
     },
     "swim": {
       "poseTypes": ["SWIM"],
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_walk')"
+        "q.bedrock('scameleon', 'ground_walk')"
       ]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],
-      "animations": ["q.bedrock('sandyshocks', 'sleep')"]
+      "animations": ["q.bedrock('scameleon', 'sleep')"]
     }
 
   }

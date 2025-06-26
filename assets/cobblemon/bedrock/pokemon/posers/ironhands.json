@@ -1,53 +1,53 @@
 {
-  "portraitScale": 1.4,
-  "portraitTranslation": [0, 1.6, 0],
+  "portraitScale": 1.2,
+  "portraitTranslation": [0, 2.2, 0],
   "profileScale": 0.5,
   "profileTranslation": [0, 1, 0],
   "animations": {
-    "cry": "q.bedrock_stateful('sandyshocks', 'cry')",
-    "faint": "q.bedrock_primary('sandyshocks', 'faint', q.curve('one'))"
+    "cry": "q.bedrock_stateful('ironhands', 'cry')",
+    "faint": "q.bedrock_primary('ironhands', 'faint', q.curve('one'))"
   },
   "poses": {
     "battle-standing": {
       "poseTypes": ["STAND"],
       "isBattle": true,
       "animations": [
-        "q.bedrock('sandyshocks', 'battle_idle')"
+        "q.bedrock('ironhands', 'battle_idle')"
       ],
-      "quirks": ["q.bedrock_quirk('sandyshocks', 'blink')"]
+      "quirks": ["q.bedrock_quirk('ironhands', 'blink')"]
     },
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_idle')"
+        "q.bedrock('ironhands', 'ground_idle')"
       ],
       "quirks": [
-        "q.bedrock_quirk('sandyshocks', 'blink')"
+        "q.bedrock_quirk('ironhands', 'blink')"
       ]
     },
     "walking": {
       "poseTypes": ["WALK"],
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_walk')"
+        "q.bedrock('ironhands', 'ground_walk')"
       ],
-      "quirks": ["q.bedrock_quirk('sandyshocks', 'blink')"]
+      "quirks": ["q.bedrock_quirk('ironhands', 'blink')"]
     },
     "float": {
       "poseTypes": ["FLOAT"],
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_idle')"
+        "q.bedrock('ironhands', 'ground_idle')"
       ]
     },
     "swim": {
       "poseTypes": ["SWIM"],
       "animations": [
-        "q.bedrock('sandyshocks', 'ground_walk')"
+        "q.bedrock('ironhands', 'ground_walk')"
       ]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],
-      "animations": ["q.bedrock('sandyshocks', 'sleep')"]
+      "animations": ["q.bedrock('ironhands', 'sleep')"]
     }
 
   }
