@@ -1,0 +1,45 @@
+{
+  "portraitScale": 1.01,
+  "portraitTranslation": [-0.12, 0.83, 0],
+  "profileScale": 0.4,
+  "profileTranslation": [-0.03, 1.05, -10],
+  "rootBone": "regieleki",
+  "animations": {},
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.look('head')", "q.bedrock('regieleki', 'ground_idle')"],
+      "quirks": [
+        "q.bedrock_quirk('regieleki', 'blink')"],
+      "transformedParts": [
+        {
+          "part": "tendrils_right",
+          "isVisible": false
+        },
+        {
+          "part": "tendrils_left",
+          "isVisible": false
+        }
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('regieleki', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('regieleki', 'blink')"],
+      "transformedParts": [
+        {
+          "part": "tendrils_left",
+          "isVisible": false
+        },
+        {
+          "part": "tendrils_right",
+          "isVisible": false
+        }
+      ]
+    }
+  }
+}
