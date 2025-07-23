@@ -295,5 +295,32 @@
     },    
     "pokemon.cyndaquil.sneeze": {
         "sounds": [ { "name": "cobblemon:pokemon/cyndaquil/cyndaquil_sneeze", "volume": 1 } ]
+    },
+    "pokemon.eevee.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/eevee/eevee_cry", "volume": 0.8 } ]
+    },
+    "pokemon.espeon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/espeon/espeon_cry", "volume": 0.8 } ]
+    },
+    "pokemon.flareon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/flareon/flareon_cry", "volume": 0.8 } ]
+    },
+    "pokemon.glaceon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/glaceon/glaceon_cry", "volume": 0.8 } ]
+    },
+    "pokemon.jolteon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/jolteon/jolteon_cry", "volume": 0.8 } ]
+    },
+    "pokemon.leafeon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/leafeon/leafeon_cry", "volume": 0.8 } ]
+    },
+    "pokemon.sylveon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/sylveon/sylveon_cry", "volume": 0.8 } ]
+    },
+    "pokemon.umbreon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/umbreon/umbreon_cry", "volume": 0.8 } ]
+    },
+    "pokemon.vaporeon.cry": {
+        "sounds": [ { "name": "cobblemon:pokemon/vaporeon/vaporeon_cry", "volume": 0.8 } ]
     }
 }

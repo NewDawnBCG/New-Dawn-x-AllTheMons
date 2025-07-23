@@ -1,0 +1,29 @@
+{
+    "portraitScale": 1.5,
+    "portraitTranslation": [-0.3, 0.4, 0],
+    "profileScale": 0.9,
+    "profileTranslation": [0, 0.45, 0],
+    "animations": {
+      "cry": "q.bedrock_stateful('sylveon', 'cry')"
+    },
+    "poses": {
+      "battle-standing": {
+        "poseTypes": ["STAND"],
+        "isBattle": true,
+        "animations": ["q.look('neck')", "q.bedrock('sylveon', 'battle_idle')"],
+        "quirks": ["q.bedrock_quirk('sylveon', 'blink')"]
+      },
+      "standing": {
+        "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+        "isBattle": false,
+        "animations": ["q.look('neck')", "q.bedrock('sylveon', 'ground_idle')"],
+        "quirks": ["q.bedrock_quirk('sylveon', 'blink')"]
+      },
+      "walking": {
+        "poseTypes": ["WALK"],
+        "animations": ["q.look('neck')", "q.bedrock('sylveon', 'ground_walk')"],
+        "quirks": ["q.bedrock_quirk('sylveon', 'blink')"]
+      }
+    }
+  }
+  
