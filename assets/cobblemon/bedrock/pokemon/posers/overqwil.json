@@ -1,0 +1,35 @@
+{
+  "portraitScale": 1.5,
+  "portraitTranslation": [-0.14, 1, 0],
+  "profileScale": 0.65,
+  "profileTranslation": [0.0, 1, 0.0],
+  "rootBone": "overqwil",
+  "animations": {
+    "cry": "q.bedrock_stateful('overqwil', 'cry')",
+    "special": "q.bedrock_primary('overqwil', 'special', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.look('head')", "q.bedrock('overqwil', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('overqwil', 'blink')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.look('head')", "q.bedrock('overqwil', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('overqwil', 'blink')",
+      "q.bedrock_quirk('overqwil', 'quirk')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": ["q.look('head')", "q.bedrock('overqwil', 'ground_run')"],
+      "quirks": ["q.bedrock_quirk('overqwil', 'blink')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('overqwil', 'sleep')"]
+    }
+  }
+}
