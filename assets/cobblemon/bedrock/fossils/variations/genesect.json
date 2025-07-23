@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:genesect",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:genesect",
+      "model": "cobblemon:genesect_fetus.geo",
+      "texture": "cobblemon:textures/fossils/genesect.png",
+      "layers": []
+    }
+  ]
+}
