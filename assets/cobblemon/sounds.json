@@ -292,5 +292,8 @@
     },
     "move.twinkletackle.sparkle": {
         "sounds": [ { "name": "cobblemon:move/twinkletackle/twinkletackle_sparkle", "volume": 1.1 } ]
+    },    
+    "pokemon.cyndaquil.sneeze": {
+        "sounds": [ { "name": "cobblemon:pokemon/cyndaquil/cyndaquil_sneeze", "volume": 1 } ]
     }
 }
