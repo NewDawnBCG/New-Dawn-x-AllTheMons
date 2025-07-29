@@ -1,0 +1,23 @@
+{
+    "species": "cobblemon:mimikyu",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": ["squirtle-cloth"],
+            "model": "cobblemon:mimikyu_squirtle.geo",
+            "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_squirtle.png"
+        },
+        {
+            "aspects": ["shiny","squirtle-cloth"],
+            "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_squirtle_shiny.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "emissive": true,
+                    "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_squirtle_shiny_emissive.png",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}

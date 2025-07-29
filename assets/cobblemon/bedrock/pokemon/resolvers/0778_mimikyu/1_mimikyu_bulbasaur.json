@@ -1,0 +1,15 @@
+{
+    "species": "cobblemon:mimikyu",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": ["bulbasaur-cloth"],
+            "model": "cobblemon:mimikyu_bulbasaur.geo",
+            "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_bulbasaur.png"
+        },
+        {
+            "aspects": ["shiny","bulbasaur-cloth"],
+            "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_bulbasaur_shiny.png"
+        }
+    ]
+}
