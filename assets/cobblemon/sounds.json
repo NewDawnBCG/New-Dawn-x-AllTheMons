@@ -331,5 +331,20 @@
     },
     "pokemon.nerueon.cry": {
         "sounds": [ "cobblemon:pokemon/nerueon/nerueon_cry" ]
+    },
+    "pokemon.tachyaton.cry": {
+        "sounds": [
+            "cobblemon:pokemon/tachyaton/tachyaton_cry"
+        ]
+    },
+    "pokemon.tachyaton.faint": {
+        "sounds": [
+            "cobblemon:pokemon/tachyaton/tachyaton_faint"
+        ]
+    },
+    "pokemon.tachyaton.freezingglare": {
+        "sounds": [
+            "cobblemon:pokemon/tachyaton/tachyaton_freezingglare"
+        ]
     }
 }
