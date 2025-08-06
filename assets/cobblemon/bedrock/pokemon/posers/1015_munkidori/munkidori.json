@@ -1,23 +1,44 @@
 {
-	
-	"head": "head",
-	"portraitScale": 2,
-	"portraitTranslation": [0, 0.7, 0],
-	"profileScale": 0.8,
-	"profileTranslation": [0, 0.65, -0.3],
-	"poses": {
-		"standing": {
-			"poseName": "standing",
-			"transformTicks": 10,
-			"poseTypes": [
-				"STAND",
-				"NONE",
-				"PORTRAIT",
-				"PROFILE"
-			],
-			"animations": [
-				"bedrock(munkidori, ground_idle)"
-			]
-		}
-	}
-}
+  "portraitScale": 1.3,
+  "portraitTranslation": [0, 1.2, 0],
+  "profileScale": 0.5,
+  "profileTranslation": [0, 1.1, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('munkidori', 'cry')"
+  },
+  "poses": {
+   
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('munkidori', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('munkidori', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('munkidori', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('munkidori', 'blink')"]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('munkidori', 'ground_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('munkidori', 'ground_walk')"
+      ]
+    }
+
+  }
+ }
