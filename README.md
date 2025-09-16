@@ -63,11 +63,24 @@ Fire Ball for several coding contributions
 
 ### Contributors 
 
-- [Lukidon](https://linktr.ee/lukidon) (Okidogi, Fezandipiti, Munkidori, Galarian Weezing, Iron Hands, Sandy Shocks, Dawnian Numel Line, Dawnian Yamask Line, Dawnian Heracross, Iron Exo, Lumbering Dunce, Queetana)
-- Stewwen27 & eelimey (Swirlix Line, Spidops Unbound, Dawnian Lilligant, Dawnian Luxray, Maracita)
+- [Lukidon](https://linktr.ee/lukidon)
+    - Okidogi
+    - Fezandipiti
+    - Munkidori
+    - Galarian Weezing
+    - Iron Hands
+    - Sandy Shocks
+    - Dawnian Numel Line
+    - Dawnian Yamask Line
+    - Dawnian Heracross
+    - Dawnian Falinks
+    - Queentana
+    - Iron Exo
+    - Lumbering Dunce
+- Stewwen27 & eelimey (Swirlix Line, Spidops Unbound, Dawnian Lilligant)
 - UselessGoddess (Cherubi Line, Koraidon, Miraidon)
-- ItsJustJ (New Dawnian Sableye, Dripplin, Wendiglim)
-- Deuli (Basketball..?, Lucky Meowth, Gen 1 Starter Mimikyus, Meloetta fixes, and 90% of bug fixes (we love you Deuli))
+- ItsJustJ (Dawnian Sableye, Dripplin, Wendiglim)
+- deuli (Basketball..?, Lucky Meowth, Gen 1 Starter Mimikyus, Meloetta fixes, and 90% of bug fixes (we love you Deuli))
 - Omniv (Bug and Texture Fixes)
 - Unseennote (Commissioner)
 - Edancheese (Commissioner/Concept Drafter)
@@ -75,3 +88,7 @@ Fire Ball for several coding contributions
 - SidewaysSteven (Commissioner, Stat Balancing)
 - FlipAndDip (Stat Balancing, Ability and Move Coding)
 - xParallels (Tachyaton, Iron Jaws)
+- CPUPanda (Mega Lapras)
+- \_Pikachu\_P3rvy\_ (Commissioner for Dawnian Turtwig line)
+- Riamo (Commissioner, Stat Balancing)
+- pokemark (Commissioner)
