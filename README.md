@@ -1,27 +1,25 @@
-# NewDawnResourcepack
+# New Dawn Mayview Resource Pack
 
-Download the latest file in the [Releases tab](https://github.com/NewDawnBCG/NewDawnResourcepack/releases).
+Download the latest file in the [Releases tab](https://github.com/NewDawnBCG/Mayview-Resource-Pack/releases).
 
 ---
 
 Custom Cobblemon Resource Pack for the New Dawn Mayview Server! 
 This pack contains the TEXTURES of all added pokemon, NOT any data.
 
-All pokemon in this pack are NOT hidden behind any paywalls whatsoever, and are accessible to all players. 
+All Pokémon in this pack are NOT hidden behind any paywalls whatsoever, and are accessible to all players. 
 If requested by the mod author, content will be removed. 
 
 ## Credits
 
 This pack runs on a modified version of MegaShowdown x AllTheMons. As per the license, all additions made by the ATMxMSD team and their contributors will be listed below. 
-Packs added and Contributors from the New Dawn Server will be listed seperately. 
+Packs added and Contributors from the New Dawn Server will be listed separately. 
 
-### Datapacks Used
+[ATMxMSD Info Doc](https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs)
 
-## ATMxMSD Info Doc:
-https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs
+ATMxMSD is developed and maintained by easysqueeze, though all assets belong to the respective contributors below.
 
-ATMxMSD is developed and maintained by easysqueeze, though all assets belong to the respective contributors below. 
-## Contributors:
+### ATMxMSD Contributors
 Genotype (genotypexd), the creator of GenoMons  
 Raspix, the creator of CobbleCats  
 ASHISK, the creator of Ashimons and a contributor to Pokemans Pack  
@@ -48,7 +46,7 @@ Zayden, the creator of Dyeable Smeargle Fix, Deoxys Meteorite Item & Water Shuri
 JoeSeff, the creator of Lucario overhaul
 Zalno, the creator of Fire Fits for Fire Cats 
 
-## Other important people:
+### Other important people (ATMxMSD)
 SpencyRock (spencyrock), the creator of UltiMons and the inspiration for this pack, as well as significant information contributions  
 Frank The Farmer (frankthefarmer), who helped me a ton with coding JSONs and was instrumental in the creation of AllTheMons  
 i love you frank <3  
@@ -60,9 +58,26 @@ Natant (n8nt) for coding contributions
 Fire Ball for several coding contributions  
 
 
+### New Dawn Additions
+- [More Cobblemon Move Animations](https://modrinth.com/datapack/more-cobblemon-move-anims)
+- [CobbleMotion](https://modrinth.com/resourcepack/cobblemotion)
+- [OJ's Animations](https://modrinth.com/resourcepack/ojs-animations)
+- [Eeveelutions Reimagined](https://modrinth.com/resourcepack/eeveelutions-reimagined)
+- [Planeta Cobblemon's Pokémon Pack](https://modrinth.com/datapack/planetas-pokemon-pack) (Only Celesteela, Iron Jugulis and Iron Boulder)
+- [CavsCobbleMons](https://modrinth.com/datapack/cavscobblemons) (Only Ting Lu, Wo Chien, Chewtle line, Tarountula line and Virizion)
+- [TDmon](https://modrinth.com/datapack/tdmon) (Only Galarian Stunfisk and Tympole line)
+- Cobblemon (Inkay line, Bronzor line, Mienfoo line, Rellor line and Drampa)
+- [Extra Paradox Mons](https://modrinth.com/datapack/extra-paradox-mons)
+- [Audino and Such](https://modrinth.com/datapack/audino-and-such)
+- [Pidove Variants](https://modrinth.com/datapack/pidove-variants)
+- [Triple Bakalutions](https://modrinth.com/datapack/triple-bakalutions)
+- [Cobblemon Cafe](https://modrinth.com/datapack/cobble-caf-forms)
+- [HiddenMons](https://modrinth.com/datapack/hiddenmons-cobblemon) (Only Togepi line)
+- [pokeinsano](https://modrinth.com/datapack/pokeinsano) (Only Gulpin line)
+- [Caden's Model Addons](https://discord.com/channels/934267676354834442/1112265512601276498) (Only Blitzle line)
+- [MysticMons](https://modrinth.com/datapack/mysticmons) (Only Yungoos line)
 
-### Contributors 
-
+### New Dawn Contributors
 - [Lukidon](https://linktr.ee/lukidon)
     - Okidogi
     - Fezandipiti
