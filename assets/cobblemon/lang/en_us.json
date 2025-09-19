@@ -365,5 +365,11 @@
     "cobblemon.species.ironexo.desc": "This Pokémon appeared in a small rural village hiding in the trees. Local legend says that the Pokémon is an exo skeleton wrapping a smaller Pokémon inside of it. This has given it the name “Iron Exo”. Iron Exo is not outright malicious, and seems to remember the Pokémon it once was.",
     
     "cobblemon.species.lumberingdunce.name": "Lumbering Dunce",
-    "cobblemon.species.lumberingdunce.desc": "This creature resembles an odd combination of two closely related Pokémon. It is so giant that the ground below it sometimes gives way, creating sink holes. This Pokémon doesn’t appear to have a brain, which has stumped researchers."
+    "cobblemon.species.lumberingdunce.desc": "This creature resembles an odd combination of two closely related Pokémon. It is so giant that the ground below it sometimes gives way, creating sink holes. This Pokémon doesn’t appear to have a brain, which has stumped researchers.",
+    
+    "cobblemon.species.pokebox.name": "Poké Box",
+    "cobblemon.move.nothing": "Nothing",
+    "cobblemon.move.nothing.desc": "The Pokémon does nothing.",
+    "cobblemon.ability.useless": "Useless",
+    "cobblemon.ability.useless.desc": "The Pokémon is completely useless unless evolved."
 }
