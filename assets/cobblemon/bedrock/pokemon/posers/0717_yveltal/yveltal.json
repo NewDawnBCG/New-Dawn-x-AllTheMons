@@ -70,7 +70,7 @@
       "poseTypes": ["FLOAT"],
       "animations": [
         "q.look('head')",
-        "q.bedrock('yveltal', 'fly_idle'')"
+        "q.bedrock('yveltal', 'fly_idle')"
       ]
     },
     "swim": {
