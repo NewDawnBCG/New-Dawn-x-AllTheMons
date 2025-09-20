@@ -6,12 +6,12 @@
       "aspects": [],
       "poser": "cobblemon:lameyser",
       "model": "cobblemon:lameyser.geo",
-      "texture": "cobblemon:textures/pokemon/lameyser/lameyser.png",
+      "texture": "cobblemon:textures/pokemon/4002_lameyser/lameyser.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/lameyser/lameyser_shiny.png",
+      "texture": "cobblemon:textures/pokemon/4002_lameyser/lameyser_shiny.png",
       "layers": []
     }
   ]

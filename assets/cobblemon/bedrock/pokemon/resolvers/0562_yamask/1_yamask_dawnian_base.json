@@ -6,12 +6,12 @@
         "aspects": ["dawnian"],
         "poser": "cobblemon:yamask_dawnian",
         "model": "cobblemon:yamask_dawnian.geo",
-        "texture": "cobblemon:textures/pokemon/yamask_dawnian/yamask_dawnian.png",
+        "texture": "cobblemon:textures/pokemon/0562_yamask/yamask_dawnian.png",
          "layers": [
         {
           "name": "emissive",
           "emissive": true,
-          "texture": "cobblemon:textures/pokemon/yamask_dawnian/yamask_dawnian_emissive.png",
+          "texture": "cobblemon:textures/pokemon/0562_yamask/yamask_dawnian_emissive.png",
           "translucent": true
     }
       ]
@@ -21,12 +21,12 @@
           "dawnian",
           "shiny"
         ],
-        "texture": "cobblemon:textures/pokemon/yamask_dawnian/yamask_dawnian_shiny.png",
+        "texture": "cobblemon:textures/pokemon/0562_yamask/yamask_dawnian_shiny.png",
           "layers": [
         {
           "name": "emissive",
           "emissive": true,
-          "texture": "cobblemon:textures/pokemon/yamask_dawnian/yamask_dawnian_shiny_emissive.png",
+          "texture": "cobblemon:textures/pokemon/0562_yamask/yamask_dawnian_shiny_emissive.png",
           "translucent": true
     }
       ]

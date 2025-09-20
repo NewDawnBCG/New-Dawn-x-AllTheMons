@@ -6,7 +6,7 @@
         "aspects": ["dawnian"],
         "poser": "cobblemon:camerupt_dawnian",
         "model": "cobblemon:camerupt_dawnian.geo",
-        "texture": "cobblemon:textures/pokemon/camerupt_dawnian/camerupt_dawnian.png",
+        "texture": "cobblemon:textures/pokemon/0323_camerupt/camerupt_dawnian.png",
         "layers": []
       },
       {
@@ -14,7 +14,7 @@
           "dawnian",
           "shiny"
         ],
-        "texture": "cobblemon:textures/pokemon/camerupt_dawnian/camerupt_dawnian_shiny.png"
+        "texture": "cobblemon:textures/pokemon/0323_camerupt/camerupt_dawnian_shiny.png"
       }
     ]
    }

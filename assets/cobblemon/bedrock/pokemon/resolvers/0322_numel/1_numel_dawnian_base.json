@@ -6,7 +6,7 @@
         "aspects": ["dawnian"],
         "poser": "cobblemon:numel_dawnian",
         "model": "cobblemon:numel_dawnian.geo",
-        "texture": "cobblemon:textures/pokemon/numel_dawnian/numel_dawnian.png",
+        "texture": "cobblemon:textures/pokemon/0322_numel/numel_dawnian.png",
         "layers": []
       },
       {
@@ -14,7 +14,7 @@
           "dawnian",
           "shiny"
         ],
-        "texture": "cobblemon:textures/pokemon/numel_dawnian/numel_dawnian_shiny.png"
+        "texture": "cobblemon:textures/pokemon/0322_numel/numel_dawnian_shiny.png"
       }
     ]
    }
