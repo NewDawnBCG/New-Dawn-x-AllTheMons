@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 34,
-        "description": ["Resource pack used for ",{"text":"New Dawn","color":"#ff65c6"}, {"text":" Mayview","color":"#ff8800"}]
+        "description": ["", {"text":"New Dawn","color":"#ff65c6"}, " x §2AllTheMons§r\n", "For ", {"text":"Horizon","color":"#ff8800"}]
     }
 }
