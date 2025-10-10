@@ -3,7 +3,7 @@
   "order": 1,
   "variations": [
     {
-      "aspects": ["threesegment"],
+      "aspects": ["three-segment-form"],
       "poser": "cobblemon:dudunsparce_three_segment",
       "model": "cobblemon:dudunsparce_three-segment.geo",
       "texture": "cobblemon:textures/pokemon/0982_dudunsparce/dudunsparce_three_segment.png",
@@ -11,7 +11,7 @@
       ] 
     },
     {
-      "aspects": ["threesegment","shiny"],
+      "aspects": ["three-segment-form","shiny"],
       "texture": "cobblemon:textures/pokemon/0982_dudunsparce/dudunsparce_three_segment_shiny.png",
       "layers": [
        

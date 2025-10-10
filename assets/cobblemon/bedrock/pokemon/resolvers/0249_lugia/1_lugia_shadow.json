@@ -5,11 +5,11 @@
     {
       "aspects": ["shadows"],
       "poser": "cobblemon:lugia",
-      "model": "cobblemon:lugia.geo",
+      "model": "cobblemon:lugia_shadow.geo",
       "texture": "cobblemon:textures/pokemon/0249_lugia/lugia_shadow.png"
     },
     {
-      "aspects": ["shadows", "shiny"],
+      "aspects": ["shiny", "shadows"],
       "texture": "cobblemon:textures/pokemon/0249_lugia/lugia_shadow_shiny.png"
     }
   ]
