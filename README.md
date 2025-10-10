@@ -1,10 +1,10 @@
-# New Dawn Mayview Resource Pack
+# New Dawn x AllTheMons
 
-Download the latest file in the [Releases tab](https://github.com/NewDawnBCG/Mayview-Resource-Pack/releases).
+Download the latest file in the [Releases tab](https://github.com/NewDawnBCG/New-Dawn-x-AllTheMons/releases).
 
 ---
 
-Custom Cobblemon Resource Pack for the New Dawn Mayview Server! 
+Custom Cobblemon Resource Pack for the New Dawn Horizon Server! 
 This pack contains the TEXTURES of all added pokemon, NOT any data.
 
 All Pokémon in this pack are NOT hidden behind any paywalls whatsoever, and are accessible to all players. 
