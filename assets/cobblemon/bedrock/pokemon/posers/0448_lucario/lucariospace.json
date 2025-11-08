@@ -52,7 +52,6 @@
       "transformTicks": 10,
       "isTouchingWater": true,
       "poseTypes": [ "FLOAT" ],
-      "isTouchingWater": true,
       "animations": [
         "look",
         "bedrock(lucario, water_idle)"
