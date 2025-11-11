@@ -3267,6 +3267,92 @@
 					}
 				}
 			}
-		}
+		},
+        "animation.riolu.shock": {
+            "loop": true,
+            "bones": {
+                "fangs": {
+                    "position": [0, -1, 0]
+                },
+                "pupil_right": {
+                    "scale": [0.7, 0.5, 1]
+                },
+                "pupil_left": {
+                    "scale": [0.7, 0.5, 1]
+                },
+                "jaw": {
+                    "position": [0, 1, 0]
+                },
+                "mouth_open2": {
+                    "position": [0, -1.2, -0.1]
+                }
+            }
+        },
+        "animation.riolu.calm": {
+            "loop": true,
+            "bones": {
+                "fangs": {
+                    "position": [0, -1, 0]
+                },
+                "eye_right_emote2": {
+                    "position": [-0.1, 0.6, 0]
+                },
+                "eye_left_emote2": {
+                    "position": [0.1, 0.6, 0]
+                },
+                "jaw": {
+                    "position": [0, 1, 0]
+                },
+                "mouth_open": {
+                    "position": [0, -1.1, -0.1]
+                }
+            }
+        },
+        "animation.riolu.judgy": {
+            "loop": true,
+            "bones": {
+                "eye_right_emote": {
+                    "position": [0.1, 0, 0.1]
+                },
+                "pupil_right": {
+                    "position": [0.5, -0.5, 0],
+                    "scale": [1, 0.5, 1]
+                },
+                "eye_left_emote": {
+                    "position": [1, 0, 0],
+                    "scale": [0.5, 1, 1]
+                },
+                "pupil_left": {
+                    "position": [0.8, 0, 0]
+                }
+            }
+        },
+        "animation.riolu.squint": {
+            "loop": true,
+            "bones": {
+                "eye_right_emote": {
+                    "position": [0.1, 0, 0.1]
+                },
+                "pupil_right": {
+                    "position": [0, -0.5, 0],
+                    "scale": [1, 0.5, 1]
+                },
+                "eye_left_emote": {
+                    "position": [-0.1, 0, 0.1]
+                },
+                "pupil_left": {
+                    "position": [0, -0.5, 0],
+                    "scale": [1, 0.5, 1]
+                }
+            }
+        },
+        "animation.riolu.spdtest": {
+            "loop": true,
+            "bones": {
+                "riolu": {
+                    "position": [0, 0, "-q.anim_time*90*0.25"]
+                }
+            }
+        }
 	}
 }
