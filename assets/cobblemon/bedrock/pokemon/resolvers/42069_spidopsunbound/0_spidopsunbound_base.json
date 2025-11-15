@@ -6,14 +6,14 @@
         "aspects": [],
         "poser": "cobblemon:spidopsunbound",
         "model": "cobblemon:spidopsunbound.geo",
-        "texture": "cobblemon:textures/pokemon/spidopsunbound/spidopsunbound.png",
+        "texture": "cobblemon:textures/pokemon/42069_spidopsunbound/spidopsunbound.png",
         "layers": []
       },
       {
         "aspects": [
           "shiny"
         ],
-        "texture": "cobblemon:textures/pokemon/spidopsunbound/spidopsunbound.png"
+        "texture": "cobblemon:textures/pokemon/42069_spidopsunbound/spidopsunbound.png"
       }
     ]
    }
