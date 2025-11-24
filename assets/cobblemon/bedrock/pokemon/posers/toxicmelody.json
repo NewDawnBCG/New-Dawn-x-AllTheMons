@@ -1,8 +1,8 @@
 {
  "portraitScale": 1,
  "portraitTranslation": [0.1, 1.5, 0],
- "profileScale": 0.7,
- "profileTranslation": [-0.2, 0.7, 0],
+ "profileScale": 0.5,
+ "profileTranslation": [-0.1, 1, -1],
  "animations": {
    "cry": "q.bedrock_stateful('toxicmelody', 'cry')"
  },

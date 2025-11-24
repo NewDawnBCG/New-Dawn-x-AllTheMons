@@ -1,10 +1,10 @@
 {
  "portraitScale": 1,
- "portraitTranslation": [0, 2.5, 0],
- "profileScale": 0.4,
- "profileTranslation": [0, 1.3, 0],
+ "portraitTranslation": [-0.4, 1.5, 0],
+ "profileScale": 0.5,
+ "profileTranslation": [0, 1.1, 0],
  "animations": {
-   "cry": "q.bedrock_stateful('ironmight', 'cry')"
+   "cry": "q.bedrock_stateful('saberjaw', 'cry')"
  },
  "poses": {
    "battle-standing": {
@@ -12,7 +12,7 @@
      "isBattle": true,
      "animations": [
        "q.look('head')",
-       "q.bedrock('ironmight', 'ground_idle')"
+       "q.bedrock('saberjaw', 'battle_idle')"
      ],
      "quirks": []
    },
@@ -21,7 +21,7 @@
      "isBattle": false,
      "animations": [
        "q.look('head')",
-       "q.bedrock('ironmight', 'ground_idle')"
+       "q.bedrock('saberjaw', 'ground_idle')"
      ],
      "quirks": []
    },
@@ -29,13 +29,13 @@
      "poseTypes": ["WALK"],
      "animations": [
        "q.look('head')",
-       "q.bedrock('ironmight', 'ground_walk')"
+       "q.bedrock('saberjaw', 'ground_walk')"
      ],
      "quirks": []
    },
    "sleep": {
       "poseTypes": ["SLEEP"],
-      "animations": ["q.bedrock('ironmight', 'sleep')"]
+      "animations": ["q.bedrock('saberjaw', 'sleep')"]
     }
  }
 }

@@ -1,8 +1,8 @@
 {
- "portraitScale": 2.7,
- "portraitTranslation": [-0.4, 1.5, 0],
+ "portraitScale": 1.7,
+ "portraitTranslation": [-0.1, 1.3, 0],
  "profileScale": 0.7,
- "profileTranslation": [0, 0.9, 0],
+ "profileTranslation": [0, 0.7, 0],
  "animations": {
    "cry": "q.bedrock_stateful('wildgene', 'cry')"
  },

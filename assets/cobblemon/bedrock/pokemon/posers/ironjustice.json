@@ -1,7 +1,7 @@
 {
  "portraitScale": 1.5,
- "portraitTranslation": [-0.3, 0.8, 0],
- "profileScale": 0.8,
+ "portraitTranslation": [-0.2, 1.2, 0],
+ "profileScale": 0.7,
  "profileTranslation": [0, 0.7, 0],
  "animations": {
    "cry": "q.bedrock_stateful('ironjustice', 'cry')"
