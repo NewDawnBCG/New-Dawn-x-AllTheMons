@@ -6,7 +6,7 @@
       "aspects": [],
       "poser": "cobblemon:gulpin",
       "model": "cobblemon:gulpin.geo",
-      "texture": "cobblemon:textures/pokemon/gulpin/gulpin.png",
+      "texture": "cobblemon:textures/pokemon/0316_gulpin/gulpin.png",
       "layers": []
     },
     {
@@ -15,7 +15,7 @@
       ],
       "poser": "cobblemon:gulpin",
       "model": "cobblemon:gulpin.geo",
-      "texture": "cobblemon:textures/pokemon/gulpin/gulpin.png",
+      "texture": "cobblemon:textures/pokemon/0316_gulpin/gulpin.png",
       "layers": []
     }
   ]

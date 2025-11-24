@@ -6,7 +6,7 @@
       "aspects": [],
       "poser": "cobblemon:swalot",
       "model": "cobblemon:swalot.geo",
-      "texture": "cobblemon:textures/pokemon/swalot/swalot.png",
+      "texture": "cobblemon:textures/pokemon/0317_swalot/swalot.png",
       "layers": []
     },
     {
@@ -15,7 +15,7 @@
       ],
       "poser": "cobblemon:swalot",
       "model": "cobblemon:swalot.geo",
-      "texture": "cobblemon:textures/pokemon/swalot/swalot.png",
+      "texture": "cobblemon:textures/pokemon/0317_swalot/swalot.png",
       "layers": []
     }
   ]
