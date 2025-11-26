@@ -2,8 +2,8 @@
   "species": "cobblemon:pichu",
   "order": 2,
   "variations": [
-    {
-      "aspects": ["spiky_eared"],
+    {      
+      "aspects": ["cosmetic_item-ancient_light_ball"],
       "poser": "cobblemon:pichu_spiky",
       "model": "cobblemon:pichus.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_spiky.png",
@@ -11,8 +11,8 @@
     },
     {
       "aspects": [
-        "spiky_eared",
-		"shiny"
+        "cosmetic_item-ancient_light_ball",
+		    "shiny"
       ],
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_spiky.png"
     }

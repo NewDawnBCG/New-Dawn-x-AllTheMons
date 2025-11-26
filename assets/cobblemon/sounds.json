@@ -59,21 +59,6 @@
     "pokemon.slitherwing.cry": {
        "sounds": [ "cobblemon:pokemon/slitherwing/slitherwing" ]
     },
-    "pokemon.axew.cry": {
-       "sounds": [ "cobblemon:pokemon/axew/axew" ]
-    },
-    "pokemon.fraxure.cry": {
-      "sounds": [ "cobblemon:pokemon/fraxure/fraxure" ]
-    },
-   "pokemon.haxorus.cry": {
-       "sounds": [ "cobblemon:pokemon/haxorus/haxorus" ]
-    },
-    "pokemon.noibat.cry": {
-       "sounds": [ "cobblemon:pokemon/noibat/noibat" ]
-    },
-    "pokemon.noivern.cry": {
-       "sounds": [ "cobblemon:pokemon/noivern/noivern" ]
-    },
     "pokemon.irontreads.cry": {
        "sounds": [ "cobblemon:pokemon/irontreads/irontreads" ]
     },

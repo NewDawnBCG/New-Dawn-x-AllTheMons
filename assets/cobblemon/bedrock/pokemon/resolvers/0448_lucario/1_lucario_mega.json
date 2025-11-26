@@ -6,33 +6,26 @@
       "aspects": ["mega"],
       "poser": "cobblemon:lucariomega",
       "model": "cobblemon:lucariomega.geo",
-      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png"
     },
     {
       "aspects": ["mega","shiny"],
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega_shiny.png"
     },
-	{
-      "aspects": ["mega","pmd-scarf","no-costume"],
-      "poser": "cobblemon:lucariomega",
-      "model": "cobblemon:lucariomega.geo",
-      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png",
-      "layers": []
+    {
+      "aspects": ["mega","cosmetic_item-red_scarf","no-costume"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png"
     },
     {
-      "aspects": ["mega","shiny","pmd-scarf","no-costume"],
+      "aspects": ["mega","shiny","cosmetic_item-red_scarf","no-costume"],
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega_shiny.png"
     },
-	{
-      "aspects": ["mega","psmd-scarf","no-costume"],
-      "poser": "cobblemon:lucariomega",
-      "model": "cobblemon:lucariomega.geo",
-      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png",
-      "layers": []
+    {
+      "aspects": ["mega","cosmetic_item-green_scarf","no-costume"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png"
     },
     {
-      "aspects": ["mega","shiny","psmd-scarf","no-costume"],
+      "aspects": ["mega","shiny","cosmetic_item-green_scarf","no-costume"],
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega_shiny.png"
     }
   ]
