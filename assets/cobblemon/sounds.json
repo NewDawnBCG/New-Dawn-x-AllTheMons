@@ -5,18 +5,6 @@
     "pokemon.delcatty.cry": {
         "sounds": ["cobblemon:pokemon/delcatty/delcatty_cry"]
     },
-    "pokemon.glameow.cry": {
-        "sounds": ["cobblemon:pokemon/glameow/glameow_cry"]
-    },
-    "pokemon.purugly.cry": {
-        "sounds": ["cobblemon:pokemon/purugly/purugly_cry"]
-    },
-    "pokemon.espurr.cry": {
-        "sounds": ["cobblemon:pokemon/espurr/espurr_cry"]
-    },
-    "pokemon.meowstic.cry": {
-        "sounds": ["cobblemon:pokemon/meowstic/meowstic_cry"]
-    },
     "pokemon.zeraora.cry": {
         "sounds": ["cobblemon:pokemon/zeraora/zeraora_cry"]
     },
@@ -31,12 +19,6 @@
     },
     "pokemon.pyroar.cry": {
         "sounds": ["cobblemon:pokemon/pyroar/pyroar_cry"]
-    },
-    "pokemon.spoink.cry": {
-        "sounds": ["cobblemon:pokemon/spoink/spoink_cry"]
-    },
-    "pokemon.grumpig.cry": {
-        "sounds": ["cobblemon:pokemon/grumpig/grumpig_cry"]
     },
     "pokemon.roaringmoon.cry": {
        "sounds": ["cobblemon:pokemon/roaringmoon/roaringmoon_cry"]
