@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:gogoat",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_gogoat.geo",
+            "texture": "cobblemon:textures/pokemon/0673_gogoat/cafe_gogoat.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0673_gogoat/cafe_gogoat_shiny.png"
+        }
+    ]
+}

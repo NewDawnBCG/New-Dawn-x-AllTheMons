@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:glaceon",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-jukebox"
+            ],
+            "model": "cobblemon:popstar_glaceon.geo",
+            "texture": "cobblemon:textures/pokemon/0471_glaceon/popstar_glaceon.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-jukebox",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0471_glaceon/popstar_glaceon_shiny.png"
+        }
+    ]
+}

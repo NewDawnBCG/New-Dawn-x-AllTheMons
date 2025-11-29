@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:lilligant",
+  "order": 5,
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-white_wool",
+        "hisuian"
+      ],
+      "poser": "cobblemon:lilligant_hisuian",
+      "model": "cobblemon:lilligant_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/0549_lilligant/lilligant_hisuian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "cosmetic_item-white_wool",
+        "shiny",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0549_lilligant/lilligant_hisuian_shiny.png"
+    }
+  ]
+}

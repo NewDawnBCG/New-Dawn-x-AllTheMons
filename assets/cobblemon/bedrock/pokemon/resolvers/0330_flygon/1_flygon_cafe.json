@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:flygon",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_flygon.geo",
+            "texture": "cobblemon:textures/pokemon/0330_flygon/cafe_flygon.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0330_flygon/cafe_flygon_shiny.png"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "species": "cobblemon:lilligant",
+    "order": 6,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "dawnian"
+            ],
+            "poser": "cobblemon:lilligant_dawnian",
+            "model": "cobblemon:lilligant_dawnian.geo",
+            "texture": "cobblemon:textures/pokemon/0549_lilligant/lilligant_dawnian.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "dawnian",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0549_lilligant/lilligant_dawnian_shiny.png"
+        }
+    ]
+}

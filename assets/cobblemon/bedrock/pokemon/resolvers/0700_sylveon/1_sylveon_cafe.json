@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:sylveon",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_sylveon.geo",
+            "texture": "cobblemon:textures/pokemon/0700_sylveon/cafe_sylveon.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0700_sylveon/cafe_sylveon_shiny.png"
+        }
+    ]
+}

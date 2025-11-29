@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:cleffa",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_cleffa.geo",
+            "texture": "cobblemon:textures/pokemon/0173_cleffa/cafe_cleffa.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0173_cleffa/cafe_cleffa_shiny.png"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:vibrava",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_vibrava.geo",
+            "texture": "cobblemon:textures/pokemon/0329_vibrava/cafe_vibrava.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0329_vibrava/cafe_vibrava_shiny.png"
+        }
+    ]
+}

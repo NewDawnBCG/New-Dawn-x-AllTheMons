@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:meowscarada",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "poser": "cobblemon:cafe_meowscarada",
+            "model": "cobblemon:cafe_meowscarada.geo",
+            "texture": "cobblemon:textures/pokemon/0908_meowscarada/cafe_meowscarada.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0908_meowscarada/cafe_meowscarada_shiny.png"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:sprigatito",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_sprigatito.geo",
+            "texture": "cobblemon:textures/pokemon/0906_sprigatito/cafe_sprigatito.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0906_sprigatito/cafe_sprigatito_shiny.png"
+        }
+    ]
+}

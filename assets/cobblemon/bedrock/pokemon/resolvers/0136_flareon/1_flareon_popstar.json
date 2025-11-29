@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:flareon",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-jukebox"
+            ],
+            "model": "cobblemon:popstar_flareon.geo",
+            "texture": "cobblemon:textures/pokemon/0136_flareon/popstar_flareon.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-jukebox",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0136_flareon/popstar_flareon_shiny.png"
+        }
+    ]
+}

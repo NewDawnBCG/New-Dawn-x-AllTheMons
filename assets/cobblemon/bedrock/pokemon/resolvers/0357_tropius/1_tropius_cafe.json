@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:tropius",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "poser": "cobblemon:cafe_tropius",
+            "model": "cobblemon:cafe_tropius.geo",
+            "texture": "cobblemon:textures/pokemon/0357_tropius/cafe_tropius.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0357_tropius/cafe_tropius_shiny.png"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "species": "cobblemon:arctozolt",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_arctozolt.geo",
+            "texture": "cobblemon:textures/pokemon/0881_arctozolt/cafe_arctozolt.png"
+        }
+    ]
+}

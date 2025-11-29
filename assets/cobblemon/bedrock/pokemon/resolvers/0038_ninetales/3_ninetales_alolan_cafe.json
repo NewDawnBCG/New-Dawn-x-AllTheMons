@@ -1,0 +1,22 @@
+{
+    "species": "cobblemon:ninetales",
+    "order": 3,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "alolan"
+            ],
+            "model": "cobblemon:cafe_ninetales_alolan.geo",
+            "texture": "cobblemon:textures/pokemon/0038_ninetales/cafe_ninetales_alolan.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "alolan",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0038_ninetales/cafe_ninetales_alolan_shiny.png"
+        }
+    ]
+}

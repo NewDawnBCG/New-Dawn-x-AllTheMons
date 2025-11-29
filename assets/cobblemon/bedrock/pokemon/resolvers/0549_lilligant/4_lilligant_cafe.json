@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:lilligant",
+    "order": 4,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_lilligant.geo",
+            "texture": "cobblemon:textures/pokemon/0549_lilligant/cafe_lilligant.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0549_lilligant/cafe_lilligant_shiny.png"
+        }
+    ]
+}

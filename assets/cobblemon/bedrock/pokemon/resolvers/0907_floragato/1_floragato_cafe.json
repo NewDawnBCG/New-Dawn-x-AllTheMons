@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:floragato",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_floragato.geo",
+            "texture": "cobblemon:textures/pokemon/0907_floragato/cafe_floragato.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0907_floragato/cafe_floragato_shiny.png"
+        }
+    ]
+}

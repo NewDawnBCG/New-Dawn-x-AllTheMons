@@ -1,0 +1,14 @@
+{
+    "species": "cobblemon:fennekin",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "poser": "cobblemon:fennekin",
+            "model": "cobblemon:cafe_fennekin.geo",
+            "texture": "cobblemon:textures/pokemon/0653_fennekin/cafe_fennekin.png"
+        }
+    ]
+}

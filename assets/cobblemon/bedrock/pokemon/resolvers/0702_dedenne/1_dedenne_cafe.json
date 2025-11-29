@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:dedenne",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_dedenne.geo",
+            "texture": "cobblemon:textures/pokemon/0702_dedenne/cafe_dedenne.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0702_dedenne/cafe_dedenne_shiny.png"
+        }
+    ]
+}

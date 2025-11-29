@@ -1,0 +1,91 @@
+{
+    "portraitScale": 1.77,
+    "portraitTranslation": [
+        -0.33,
+        2.7,
+        0.0
+    ],
+    "profileScale": 0.46,
+    "profileTranslation": [
+        0.0,
+        1.1,
+        0.0
+    ],
+    "rootBone": "cafe_meowscarada",
+    "animations": {
+        "cry": "q.bedrock_stateful('cafe_meowscarada', 'cry')"
+    },
+    "poses": {
+        "sleep": {
+            "poseName": "sleep",
+            "poseTypes": [
+                "SLEEP"
+            ],
+            "namedAnimations": {
+                "cry": "q.bedrock_stateful('cafe_meowscarada', 'cry')"
+            },
+            "animations": [
+                "q.bedrock('cafe_meowscarada', 'sleep')"
+            ],
+            "quirks": [
+                "q.bedrock_quirk('cafe_meowscarada', q.array('sleep_quirk', 'sleep_quirk2', 'sleep_quirk3', 'sleep_quirk4'), 6, 20, 1)"
+            ]
+        },
+        "battle_idle": {
+            "poseName": "battle_idle",
+            "isBattle": true,
+            "poseTypes": [
+                "STAND",
+                "FLOAT"
+            ],
+            "animations": [
+                "q.look('head')",
+                "q.look('neck_ruff', 1, 0, 50, -45 )",
+                "q.bedrock('cafe_meowscarada', 'battle_idle')"
+            ],
+            "namedAnimations": {
+                "cry": "q.bedrock_stateful('cafe_meowscarada', 'battle_cry')"
+            },
+            "transformTicks": 10,
+            "quirks": [
+                "q.bedrock_quirk('cafe_meowscarada', 'blink')"
+            ]
+        },
+        "standing": {
+            "poseName": "standing",
+            "isBattle": false,
+            "poseTypes": [
+                "STAND",
+                "FLOAT",
+                "PORTRAIT",
+                "PROFILE",
+                "NONE"
+            ],
+            "animations": [
+                "q.look('head')",
+                "q.look('neck_ruff', 1, 0, 50, -45 )",
+                "q.bedrock('cafe_meowscarada', 'ground_idle')"
+            ],
+            "transformTicks": 10,
+            "quirks": [
+                "q.bedrock_quirk('cafe_meowscarada', 'blink')"
+            ]
+        },
+        "walking": {
+            "poseName": "walking",
+            "poseTypes": [
+                "WALK",
+                "SWIM"
+            ],
+            "animations": [
+                "q.look('head')",
+                "q.look('neck_ruff', 1, 0, 50, -45 )",
+                "q.bedrock('cafe_meowscarada', 'ground_walk')"
+            ],
+            "transformTicks": 10,
+            "quirks": [
+                "q.bedrock_quirk('cafe_meowscarada', 'blink')"
+            ]
+        }
+    }
+}

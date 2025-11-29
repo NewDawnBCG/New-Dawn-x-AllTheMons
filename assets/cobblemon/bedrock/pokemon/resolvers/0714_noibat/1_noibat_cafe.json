@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:noibat",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_noibat.geo",
+            "texture": "cobblemon:textures/pokemon/0714_noibat/cafe_noibat.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0714_noibat/cafe_noibat_shiny.png"
+        }
+    ]
+}

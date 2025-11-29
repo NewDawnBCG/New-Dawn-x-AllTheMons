@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:cyndaquil",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_cyndaquil.geo",
+            "texture": "cobblemon:textures/pokemon/0155_cyndaquil/cafe_cyndaquil.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0155_cyndaquil/cafe_cyndaquil_shiny.png"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "species": "cobblemon:vulpix",
+    "order": 4,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "alolan"
+            ],
+            "model": "cobblemon:vulpix_alolan.geo",
+            "texture": "cobblemon:textures/pokemon/0037_vulpix/vulpix_alolan.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "alolan",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0037_vulpix/vulpix_alolan_shiny.png"
+        }
+    ]
+}

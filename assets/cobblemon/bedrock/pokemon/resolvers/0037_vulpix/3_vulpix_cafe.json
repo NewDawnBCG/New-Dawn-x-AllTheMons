@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:vulpix",
+    "order": 3,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_vulpix_kanto.geo",
+            "texture": "cobblemon:textures/pokemon/0037_vulpix/cafe_vulpix.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0037_vulpix/cafe_vulpix_shiny.png"
+        }
+    ]
+}

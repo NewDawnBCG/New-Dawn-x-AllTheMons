@@ -1,0 +1,12 @@
+{
+    "species": "cobblemon:raichu_alolan_pancake",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:pokebox",
+            "model": "cobblemon:pokebox.geo",
+            "texture": "cobblemon:textures/pokemon/pokebox/pokebox.png"
+        }
+    ]
+}

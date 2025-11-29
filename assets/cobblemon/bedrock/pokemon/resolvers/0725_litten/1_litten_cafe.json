@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:litten",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_litten.geo",
+            "texture": "cobblemon:textures/pokemon/0725_litten/cafe_litten.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0725_litten/cafe_litten_shiny.png"
+        }
+    ]
+}

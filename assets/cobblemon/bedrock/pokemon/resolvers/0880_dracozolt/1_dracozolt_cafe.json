@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:dracozolt",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_dracozolt.geo",
+            "texture": "cobblemon:textures/pokemon/0880_dracozolt/cafe_dracozolt.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0880_dracozolt/cafe_dracozolt_shiny.png"
+        }
+    ]
+}

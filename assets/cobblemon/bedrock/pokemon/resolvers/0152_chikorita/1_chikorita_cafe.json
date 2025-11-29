@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:chikorita",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "poser": "cobblemon:cafe_chikorita",
+            "model": "cobblemon:cafe_chikorita.geo",
+            "texture": "cobblemon:textures/pokemon/0152_chikorita/cafe_chikorita.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0152_chikorita/cafe_chikorita_shiny.png"
+        }
+    ]
+}
