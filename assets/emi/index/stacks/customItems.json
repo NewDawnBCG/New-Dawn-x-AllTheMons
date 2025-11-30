@@ -3,62 +3,6 @@
     {
       "stack": "item:minecraft:music_disc_wait{\"!minecraft:jukebox_playable\":{},\"minecraft:custom_model_data\":1300,\"minecraft:item_name\":\u0027\"Laprasite\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"Allows Lapras to Mega Evolve into Mega Lapras\"}\u0027],\"minecraft:max_stack_size\":64,\"minecraft:rarity\":\"common\"}",
       "after": "item:mega_showdown:kangaskhanite"
-    },
-    {
-      "stack": "item:minecraft:purple_dye{\"minecraft:custom_model_data\":260616,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Shadow Mewtwonite Y\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"This corrupted Megastone allows Mewtwo\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"to Mega Evolve into Shadow Mega Y\"}\u0027]}",
-      "after": "item:mega_showdown:scizorite"
-    },
-    {
-      "stack": "item:minecraft:red_dye{\"minecraft:custom_model_data\":260615,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Shadow Mewtwonite X\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"This corrupted Megastone allows Mewtwo\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"to Mega Evolve into Shadow Mega X\"}\u0027]}",
-      "after": "item:mega_showdown:scizorite"
-    },
-    {
-      "stack": "item:minecraft:red_dye{\"minecraft:custom_model_data\":260621,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Slowbrogonite\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"Allows Galarian Slowbro to Mega\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"Evolve into Galarian Mega Slowbro\"}\u0027]}",
-      "after": "item:mega_showdown:sceptilite"
-    },
-    {
-      "stack": "item:minecraft:white_dye{\"minecraft:custom_model_data\":260609,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Red Scarf\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"A scarf typically worn by the Mystery Dungeon Team\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:white_dye{\"minecraft:custom_model_data\":260610,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Green Scarf\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"A scarf typically worn by the Mystery Dungeon Team\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:red_dye{\"minecraft:custom_model_data\":260618,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Time Gear\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"When resonating with Dialga,\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"it unshackles its primal instincts\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:red_dye{\"minecraft:custom_model_data\":260612,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Meteorite\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"An improved version of the normal meteorite,\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"which does not get consumed when used.\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:purple_dye{\"minecraft:custom_model_data\":260613,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Shadow Energy\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"Corrupts Pokémon with its strange Aura\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:red_dye{\"minecraft:custom_model_data\":260611,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Water Shuriken\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"A rare shuriken that allows you to\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"change the appearance of Greninja.\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:purple_dye{\"minecraft:custom_model_data\":260620,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Corrupted Wish\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"A wish tag granted by Jirachi, tainted by the evil\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"intentions of a blind human who sought to summon Groudon,\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"twisted the mighty creature into a being of pure darkness\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:purple_dye{\"minecraft:custom_model_data\":260614,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Binding Armor\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"Focuses and restrains Mewtwos Powers\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:red_dye{\"minecraft:custom_model_data\":260617,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Ancient Light Ball\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"A rare relic from a distant time\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"it has a strange effect on female Pichu.\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:white_dye{\"minecraft:custom_model_data\":260608,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Costume Box (Lucario)\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"A Box full of Lucarios favorite costumes\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
-    },
-    {
-      "stack": "item:minecraft:white_dye{\"minecraft:custom_model_data\":260607,\"minecraft:item_name\":\u0027{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"Costume Box (Incineroar)\"}],\"italic\":false,\"text\":\"\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"blue\",\"italic\":false,\"text\":\"Form Changes\"}\u0027,\u0027{\"color\":\"gray\",\"text\":\"A Box full of Incineroars favorite costumes\"}\u0027]}",
-      "after": "item:mega_showdown:rotom_catalogue"
     }
   ]
 }
