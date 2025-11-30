@@ -27,6 +27,22 @@
     {
       "aspects": ["mega","shiny","cosmetic_item-green_scarf","no-costume"],
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega_shiny.png"
+    },
+    {
+      "aspects": ["mega","cosmetic_item-atmxmsd","no-costume"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png"
+    },
+    {
+      "aspects": ["mega","shiny","cosmetic_item-atmxmsd","no-costume"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega_shiny.png"
+    },
+    {
+      "aspects": ["mega","cosmetic_item-atmxmsd2","no-costume"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega.png"
+    },
+    {
+      "aspects": ["mega","shiny","cosmetic_item-atmxmsd2","no-costume"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomega_shiny.png"
     }
   ]
 }
