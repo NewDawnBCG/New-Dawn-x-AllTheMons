@@ -1,0 +1,12 @@
+{
+    "species": "cobblemon:torterra",
+    "order": 11,
+    "variations": [
+        {
+            "aspects": ["dawnian"],
+            "poser": "cobblemon:pokebox",
+            "model": "cobblemon:pokebox.geo",
+            "texture": "cobblemon:textures/pokemon/pokebox/pokebox.png"
+        }
+    ]
+}
