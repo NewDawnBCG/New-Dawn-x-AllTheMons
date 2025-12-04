@@ -315,21 +315,35 @@
         ]
     },
     "pokemon.luxray_dawnian.cry": {
-        "sounds": ["cobblemon:pokemon/luxray/luxray_dawnian_cry"]
+        "sounds": [
+          {
+              "name": "cobblemon:pokemon/luxray/luxray_dawnian_cry",
+              "volume": 0.5
+          }
+        ]
     },
     "pokemon.numel_dawnian.cry": {
         "sounds": [
-            "cobblemon:pokemon/numel/numel_dawnian_cry"
+            {
+              "name": "cobblemon:pokemon/numel/numel_dawnian_cry",
+              "volume": 0.5
+            }
         ]
     },
     "pokemon.camerupt_dawnian.cry": {
         "sounds": [
-            "cobblemon:pokemon/camerupt/camerupt_dawnian_cry"
+            {
+              "name": "cobblemon:pokemon/camerupt/camerupt_dawnian_cry",
+              "volume": 0.5
+            }
         ]
     },
     "pokemon.lameyser.cry": {
         "sounds": [
-            "cobblemon:pokemon/lameyser/lameyser_cry"
+            {
+              "name": "cobblemon:pokemon/lameyser/lameyser_cry",
+              "volume": 0.5
+            }
         ]
     },
     "pokemon.yamask_dawnian.cry": {
@@ -344,12 +358,18 @@
     },
     "pokemon.scameleon.cry": {
         "sounds": [
-            "cobblemon:pokemon/scameleon/scameleon_cry"
+            {
+              "name": "cobblemon:pokemon/scameleon/scameleon_cry",
+              "volume": 0.5
+            }
         ]
     },
     "pokemon.heracross_dawnian.cry": {
         "sounds": [
-            "cobblemon:pokemon/heracross/heracross_dawnian_cry"
+            {
+              "name": "cobblemon:pokemon/heracross/heracross_dawnian_cry",
+              "volume": 0.5
+            }
         ]
     },
     "pokemon.ironjaws.cry": {
