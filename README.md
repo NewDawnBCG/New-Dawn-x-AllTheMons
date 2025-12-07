@@ -12,7 +12,8 @@ If requested by the mod author, content will be removed.
 
 ## Credits
 
-This pack runs on a modified version of MegaShowdown x AllTheMons. As per the license, all additions made by the ATMxMSD team and their contributors will be listed below. 
+This pack runs on a modified version of MegaShowdown x AllTheMons.
+As per the license, all additions made by the ATMxMSD team and their contributors will be listed below. 
 Packs added and Contributors from the New Dawn Server will be listed separately. 
 
 [ATMxMSD Info Doc](https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs)
@@ -66,16 +67,12 @@ Fire Ball for several coding contributions
 - [Planeta Cobblemon's Pokémon Pack](https://modrinth.com/datapack/planetas-pokemon-pack) (Only Celesteela, Iron Jugulis and Iron Boulder)
 - [CavsCobbleMons](https://modrinth.com/datapack/cavscobblemons) (Only Ting Lu, Wo Chien, Chewtle line, Tarountula line and Virizion)
 - [TDmon](https://modrinth.com/datapack/tdmon) (Only Galarian Stunfisk and Tympole line)
-- Cobblemon (Inkay line, Bronzor line, Mienfoo line, Rellor line and Drampa)
 - [Extra Paradox Mons](https://modrinth.com/datapack/extra-paradox-mons)
-- [Audino and Such](https://modrinth.com/datapack/audino-and-such)
+- [Audino and Such](https://modrinth.com/datapack/audino-and-such) (Only Grox variant)
 - [Pidove Variants](https://modrinth.com/datapack/pidove-variants)
 - [Triple Bakalutions](https://modrinth.com/datapack/triple-bakalutions)
 - [Cobblemon Cafe](https://modrinth.com/datapack/cobble-caf-forms)
-- [HiddenMons](https://modrinth.com/datapack/hiddenmons-cobblemon) (Only Togepi line)
 - [pokeinsano](https://modrinth.com/datapack/pokeinsano) (Only Gulpin line)
-- [Caden's Model Addons](https://discord.com/channels/934267676354834442/1112265512601276498) (Only Blitzle line)
-- [MysticMons](https://modrinth.com/datapack/mysticmons) (Only Yungoos line)
 
 ### New Dawn Contributors
 - [Lukidon](https://linktr.ee/lukidon)
@@ -85,16 +82,19 @@ Fire Ball for several coding contributions
     - Galarian Weezing
     - Iron Hands
     - Sandy Shocks
-    - Dawnian Numel Line
-    - Dawnian Yamask Line
+    - Dawnian Numel line
+    - Dawnian Yamask line
     - Dawnian Heracross
     - Dawnian Falinks
     - Queentana
     - Iron Exo
     - Lumbering Dunce
+    - Lindcider
+    - Dawnian Treecko line
+    - Dawnian Torchic line
+    - Dawnian Mudkip line
 - Stewwen27 & eelimey (Swirlix Line, Spidops Unbound, Dawnian Lilligant)
-- UselessGoddess (Cherubi Line, Koraidon, Miraidon)
-- ItsJustJ (Dawnian Sableye, Dripplin, Wendiglim)
+- ItsJustJ (Dawnian Sableye, Wendiglim, Dripplin, Lindcider)
 - deuli (Basketball..?, Lucky Meowth, Gen 1 Starter Mimikyus, Meloetta fixes, and 90% of bug fixes (we love you Deuli))
 - Omniv (Bug and Texture Fixes)
 - Unseennote (Commissioner)
@@ -104,6 +104,5 @@ Fire Ball for several coding contributions
 - FlipAndDip (Stat Balancing, Ability and Move Coding)
 - xParallels (Tachyaton, Iron Jaws)
 - CPUPanda (Mega Lapras)
-- \_Pikachu\_P3rvy\_ (Commissioner for Dawnian Turtwig line)
 - Riamo (Commissioner, Stat Balancing)
 - pokemark (Commissioner)
