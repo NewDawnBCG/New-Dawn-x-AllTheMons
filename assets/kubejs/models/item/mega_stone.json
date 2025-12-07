@@ -1,13 +1,13 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "minecraft:item/music_disc_wait"
+        "layer0": "kubejs:item/mega_stone"
     },
     "overrides": [
         {
             "model": "newdawn:item/laprasite",
             "predicate": {
-                "custom_model_data": 1300
+                "custom_model_data": 1
             }
         }
     ]

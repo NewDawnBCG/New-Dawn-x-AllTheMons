@@ -1,8 +1,0 @@
-{
-  "added": [
-    {
-      "stack": "item:minecraft:music_disc_wait{\"!minecraft:jukebox_playable\":{},\"minecraft:custom_model_data\":1300,\"minecraft:item_name\":\u0027\"Laprasite\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"Allows Lapras to Mega Evolve into Mega Lapras\"}\u0027],\"minecraft:max_stack_size\":64,\"minecraft:rarity\":\"common\"}",
-      "after": "item:mega_showdown:kangaskhanite"
-    }
-  ]
-}
