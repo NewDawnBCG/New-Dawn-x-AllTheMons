@@ -401,5 +401,40 @@
         "sounds": [
             "cobblemon:pokemon/lumberingdunce/lumberingdunce_cry"
         ]
+    },
+    "pokemon.torchic_dawnian.cry": {
+        "sounds": [
+            "cobblemon:pokemon/torchic/torchic_dawnian_cry"
+        ]
+    },
+    "pokemon.ameliven.cry": {
+        "sounds": [
+            "cobblemon:pokemon/ameliven/ameliven_cry"
+        ]
+    },
+    "pokemon.treecko_dawnian.cry": {
+        "sounds": [
+            "cobblemon:pokemon/treecko/treecko_dawnian_cry"
+        ]
+    },
+    "pokemon.varunalas.cry": {
+        "sounds": [
+            "cobblemon:pokemon/varunalas/varunalas_cry"
+        ]
+    },
+    "pokemon.mudkip_dawnian.cry": {
+        "sounds": [
+            "cobblemon:pokemon/mudkip/mudkip_dawnian_cry"
+        ]
+    },
+    "pokemon.bogolotl.cry": {
+        "sounds": [
+            "cobblemon:pokemon/bogolotl/bogolotl_cry"
+        ]
+    },
+      "pokemon.lindcider.cry": {
+        "sounds": [
+            "cobblemon:pokemon/lindcider/lindcider_cry"
+        ]
     }
 }

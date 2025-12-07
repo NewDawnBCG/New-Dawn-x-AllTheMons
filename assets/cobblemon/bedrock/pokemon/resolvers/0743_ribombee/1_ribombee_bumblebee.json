@@ -5,7 +5,7 @@
         {
             "aspects": ["dawnian"],
             "poser": "cobblemon:ribombee",
-            "model": "cobblemon:ribombee.geo",
+            "model": "cobblemon:ribombee_old.geo",
             "texture": "cobblemon:textures/pokemon/0743_ribombee/bumblebee.png",
             "layers": [
                 {

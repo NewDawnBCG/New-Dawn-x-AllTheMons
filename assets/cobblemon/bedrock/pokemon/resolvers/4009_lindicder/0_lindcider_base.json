@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:lindcider",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lindcider",
+      "model": "cobblemon:lindcider.geo",
+      "texture": "cobblemon:textures/pokemon/4009_lindcider/lindcider.png",
+      "layers": [
+      
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/4009_lindcider/lindcider_shiny.png",
+      "layers": [
+       
+      ]
+    }
+  ]
+}

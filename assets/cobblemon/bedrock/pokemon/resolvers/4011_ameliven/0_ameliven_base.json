@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:ameliven",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ameliven",
+      "model": "cobblemon:ameliven.geo",
+      "texture": "cobblemon:textures/pokemon/4011_ameliven/ameliven.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/4011_ameliven/ameliven_emissive.png",
+          "translucent": true
+    }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/4011_ameliven/ameliven_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/4011_ameliven/ameliven_shiny_emissive.png",
+          "translucent": true
+    }
+      ]
+    }
+  ]
+}

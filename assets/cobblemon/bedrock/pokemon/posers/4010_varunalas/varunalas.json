@@ -1,0 +1,49 @@
+{
+  "portraitScale": 1.4,
+  "portraitTranslation": [-1.2, 1.7, 0],
+ "profileScale": 0.4,
+  "profileTranslation": [0.1, 1, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('varunalas', 'cry')"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('varunalas', 'ground_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('varunalas', 'blink')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('varunalas', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('varunalas', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('varunalas', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('varunalas', 'blink')"]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('varunalas', 'ground_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('varunalas', 'ground_walk')"
+      ]
+    }
+
+  }
+ }

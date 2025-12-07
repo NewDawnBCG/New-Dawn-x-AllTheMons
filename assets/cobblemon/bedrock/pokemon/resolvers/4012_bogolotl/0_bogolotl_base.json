@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:bogolotl",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:bogolotl",
+      "model": "cobblemon:bogolotl.geo",
+      "texture": "cobblemon:textures/pokemon/4012_bogolotl/bogolotl.png"
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/4012_bogolotl/bogolotl_shiny.png"
+    }
+  ]
+}

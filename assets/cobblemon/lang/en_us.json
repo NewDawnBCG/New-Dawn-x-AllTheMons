@@ -220,20 +220,29 @@
     "cobblemon.battle.damage.snaptrap": "%1$s was hurt by the trap!",
     
     "cobblemon.ui.pokedex.info.form.grox": "Grox",
+    "cobblemon.ui.pokedex.info.form.audino-grox": "Grox",
     
     "cobblemon.ui.pokedex.region.dawnian": "Dawn",
     "cobblemon.ui.pokedex.info.form.dawnian": "Dawnian",
+
+    "cobblemon.ui.pokedex.info.form.electrode-dawnian": "Dawnian",
+    
+    "cobblemon.ui.pokedex.info.form.meowth-dawnian": "Dawnian",
     
     "cobblemon.species.sableye-dawnian.name": "Sableye",
+    "cobblemon.ui.pokedex.info.form.sableye-dawnian": "Dawnian",
     "cobblemon.species.sableye-dawnian.desc": "These sableye have adapted to the cold, living in icy caves deep underground, and have formed a pack-like dynamic with others of its kind. This allows them to hunt their favorite prey, Carbink, much more efficiently.",
     
+    "cobblemon.ui.pokedex.info.form.luxray": "",
+    "cobblemon.ui.pokedex.info.form.luxray-dawnian": "Dawnian",
     "cobblemon.species.luxray-dawnian.desc": "Roaming the tundra alone after exile from its pride, this Luxray endured a brutal defeat and the unforgiving cold. Trainers say earning its trust is as rare as seeing lightning during a blizzard.",
     
     "cobblemon.species.lilligant-dawnian.name": "Lilligant",
+    "cobblemon.ui.pokedex.info.form.lilligant-dawnian": "Dawnian",
     "cobblemon.species.lilligant-dawnian.desc": "This form of lilligant maintains the ecosystem using controlled wildfires and is naturally into gardening. Only found in during dawn",
-
-    "cobblemon.species.meloetta-pirouette.desc": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
-    "cobblemon.ui.pokedex.info.form.pirouette": "Pirouette",
+    
+    "cobblemon.ui.pokedex.info.form.ribombee": "",
+    "cobblemon.ui.pokedex.info.form.ribombee-dawnian": "Dawnian",
     
     "cobblemon.species.spidopsunbound.name": "Spidops Unbound",
     "cobblemon.species.spidopsunbound.desc": "Spidop's in its purest for of humility. U-N-B-O-U-N-D",
@@ -241,16 +250,21 @@
     "cobblemon.species.scameleon.name": "Scameleon",
     "cobblemon.species.scameleon.desc": "Scameleon can become completely invisible and nearly intangible,  often stealing from smaller Pokemon. However, this Pokemon avoids Sobble, due to the fear of its natural rival Inteleon- the only pokemon able to detect it- lurking nearby.",
     
+    "cobblemon.species.numel.name": "",
     "cobblemon.species.numel-dawnian.name": "Numel",
+    "cobblemon.ui.pokedex.info.form.numel-dawnian": "Dawnian",
     "cobblemon.species.numel-dawnian.desc": "Spending time in a colder environment caused them to harden. To warm up, this Pokémon soaked in nearby hot springs. Over time, spring water seeped inside and replaced the hot magma in their bodies.",
     
+    "cobblemon.species.camerupt.name": "",
     "cobblemon.species.camerupt-dawnian.name": "Camerupt",
+    "cobblemon.ui.pokedex.info.form.camerupt-dawnian": "Dawnian",
     "cobblemon.species.camerupt-dawnian.desc": "Their bodies contain mineral rich water with panacea-like properties, making them a popular target for people and Pokémon alike. As a result, they tend to avoid fights, choosing to camouflage along the spring bed instead. Camerupt often form symbiotic relationships with Numel, allowing them to plug up the stumps on their back in exchange for providing warmth.",
     
     "cobblemon.species.lameyser.name": "Lameyser",
     "cobblemon.species.lameyser.desc": "When a Dawnian Camerupt absorbs enough spring water over a long period of time without release, the vast amounts of water and heat in their body causes the geyser on their back to erupt violently, evolving them into Lameyser. They are often seen assisting injured Pokémon and allowing them to soak in the hot springs they produce.",
     
     "cobblemon.species.yamask-dawnian.name": "Yamask",
+    "cobblemon.ui.pokedex.info.form.yamask-dawnian": "Dawnian",
     "cobblemon.species.yamask-dawnian.desc": "This pokemon is said to be what remains of a spirit seeking riches, eternally searching for wealth as punishment. They are often found near ruins or areas containing great treasures, hunting the Gimmighoul that gather around the area.",
     
     "cobblemon.species.luderigus.name": "Luderigus",
@@ -258,6 +272,7 @@
     "cobblemon.ui.stash.gold": "Coin Stash",
 
     "cobblemon.species.heracross-dawnian.name": "Heracross",
+    "cobblemon.ui.pokedex.info.form.heracross-dawnian": "Dawnian",
     "cobblemon.species.heracross-dawnian.desc": "This pokemon has adapted to cave living, incorporating scavenged minerals into its exoskeleton. It has adapted large claws in order to dig tunnels, as well as to fend off Aron and Lairon that attempt to eat the rare earth metals on its back.",
     
     "cobblemon.species.tachyaton.name": "Tachyaton",
@@ -265,6 +280,7 @@
     "cobblemon.species.tachyaton.desc2": "FIRE IN THE HOLE",
     
     "cobblemon.species.dripplin.name": "Dripplin",
+    "cobblemon.species.dripplin.desc": "Dripplin hides inside a colorful juice box, with only its eyes and straw poking out. It evolved after Applin spent too much time in a discarded juice box in a city park trash can. The sweet scent it gives off lures children and sometimes Bug-type Pokémon who can't resist a sip. Beware: its juice is actually a highly concentrated sap used to trap prey.",
     
     "cobblemon.species.lapras-mega.desc": "As the ice age struck, Lapras continued to protect its passengers, enduring hardship itself. However, through its determination, energy surged within Lapras, allowing it to evolve beyond its normal form so it could keep protecting others.",
     
@@ -280,8 +296,9 @@
     
     "cobblemon.species.falinks_dawnian_defensive.desc": "This form of Falinks has adapted to occupy many roles in a traveling party: a paladin, warrior, wizard, ranger, cleric, and a monk. This Pokémon is in reality 6 separate and unique creatures.",
     "cobblemon.species.falinks_dawnian_offensive.desc": "This form of Falinks has adapted to occupy many roles in a traveling party: a paladin, warrior, wizard, ranger, cleric, and a monk. This Pokémon is in reality 6 separate and unique creatures.",
-    "cobblemon.ui.pokedex.info.form.dawnian-defensive": "Dawnian (Defensive)",
-    "cobblemon.ui.pokedex.info.form.dawnian-offensive": "Dawnian (Offensive)",
+    "cobblemon.ui.pokedex.info.form.falinks": "",
+    "cobblemon.ui.pokedex.info.form.falinks-dawniandefensive": "Dawnian (Defensive)",
+    "cobblemon.ui.pokedex.info.form.falinks-dawnianoffensive": "Dawnian (Offensive)",
     "cobblemon.ability.formation": "Formation",
     "cobblemon.ability.formation.desc": "The Pokémon switches its formation between defensive and offensive at the end of each turn.",
     "cobblemon.move.initiative": "Initiative",
@@ -300,5 +317,35 @@
     "cobblemon.ability.useless": "Useless",
     "cobblemon.ability.useless.desc": "The Pokémon is completely useless unless evolved.",
     "cobblemon.ability.removed": "Removed",
-    "cobblemon.ability.removed.desc": "This Pokémon has been removed and is therefore useless."
+    "cobblemon.ability.removed.desc": "This Pokémon has been removed and is therefore useless.",
+    
+    "cobblemon.ui.pokedex.info.form.torchic": "",
+    "cobblemon.ui.pokedex.info.form.torchic-dawnian": "Dawnian",
+    "cobblemon.species.torchic_dawnian.desc": "When violent storms hit Hoenn a long time ago, Torchic were forced to adapt in wetter forest environments. It has become extremely skittish and scared of its surroundings. Torchic was forced to rely on stealth to survive. Due to this, its fighting spirit and ability was lost.",
+    
+    "cobblemon.species.ameliven.name": "Ameliven",
+    "cobblemon.species.ameliven.desc": "It's evolved to no longer possess any upper limbs. It uses its feather cloak to disguise itself in shadows. If it doesn't want to be seen, it won't be. Ameliven are very shy Pokémon, it takes time and effort to build a bond. When Ameliven is close with a trainer, they will create psychic constructs for them.",
+    
+    "cobblemon.ui.pokedex.info.form.mudkip": "",
+    "cobblemon.ui.pokedex.info.form.mudkip-dawnian": "Dawnian",
+    "cobblemon.species.mudkip_dawnian.desc": "Mudkip's migrated deeper into swamps, facing new predators. It chose to hide in plain sight under lily pads to survive. This lily pad became an extension of Mudkip's body.",
+    
+    "cobblemon.species.bogolotl.name": "Bogolotl",
+    "cobblemon.species.bogolotl.desc": "Though it may be lazy, it will spring into action immediately if a weaker Pokémon or trainer is in danger. Once the danger is settled, it will return to floating in its swampy water. It makes sure no other Pokémon are bullied again by protecting everyone. Its punch can shatter a tree into a thousand pieces.",
+    
+    "cobblemon.ui.pokedex.info.form.treecko": "",
+    "cobblemon.ui.pokedex.info.form.treecko-dawnian": "Dawnian",
+    "cobblemon.species.treecko_dawnian.desc": "Violent weather drove Treecko to volcanic regions where it began to change form over time. It crushes and heats rock it finds to stick to its tail as a symbol of status to rival Treecko. This Treecko is much more violent than Hoenn's. It gets into brutal battles with rival Treecko, slamming their red face plates into each other until one shatters.",
+    
+    "cobblemon.species.varunalas.name": "Varunalas",
+    "cobblemon.species.varunalas.desc": "Varunalas are very territorial, and will do anything to protect the volcanoes they reside on. It's insides have become a material very similar to molten glass. It's skin is boiling to the touch, and will cause severe burns if touched. It's red face plating is the only safe spot on Varunalas to touch. Its molten glass-like insides have become an unethical luxury.",
+    
+    "cobblemon.species.aveeon.name": "Aveeon",
+    "cobblemon.species.aveeon.desc": "PLACEHOLDER - I'm not keeping whatever Luki had before",
+    
+    "cobblemon.species.papileon.name": "Papileon",
+    "cobblemon.species.papileon.desc": "PLACEHOLDER - I'm not keeping whatever Luki had before",
+    
+    "cobblemon.species.lindcider.name": "Lindcider",
+    "cobblemon.species.lindcider.desc": "Over time, the sap residing in Dripplin's juice box ferments, causing evolution. Lindcider is in a constant state of drunken induced dizziness, and has a hard time placing where it is or where it's going at times. The liquid that Lindcider produces is not safe to consume, and is highly toxic to humans."
 }
