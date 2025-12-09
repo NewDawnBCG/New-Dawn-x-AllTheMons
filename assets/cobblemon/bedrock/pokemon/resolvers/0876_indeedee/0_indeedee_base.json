@@ -3,13 +3,13 @@
     "order": 0,
     "variations": [
       {
-        "aspects": ["male"],
+        "aspects": [],
         "poser": "cobblemon:indeedee_m",
         "model": "cobblemon:indeedee_m.geo",
         "texture": "cobblemon:textures/pokemon/0876_indeedee/indeedee_m.png"
       },
       {
-        "aspects": [ "male", "shiny" ],
+        "aspects": [ "shiny" ],
         "texture": "cobblemon:textures/pokemon/0876_indeedee/indeedee_m_shiny.png"
       }
     ]

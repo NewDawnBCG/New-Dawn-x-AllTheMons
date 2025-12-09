@@ -15,14 +15,14 @@
           "PROFILE"
         ],
         "animations": [
-          "bedrock(applin, ground_idle)"
+          "q.edrock('applin', 'ground_idle')"
         ]
       },
       "walking": {
         "poseName": "walking",
         "transformTicks": 10,
         "poseTypes": [ "WALK" ],
-        "animations": [ "bedrock(applin, ground_walk)" ]
+        "animations": [ "q.bedrock('applin', 'ground_walk')" ]
 		}
       }
     }
