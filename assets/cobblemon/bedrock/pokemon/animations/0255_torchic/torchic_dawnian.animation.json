@@ -73,7 +73,7 @@
 			},
 			"sound_effects": {
 				"0.125": {
-					"effect": "pokemon.torchic_dawnian_dawnian.cry"
+					"effect": "pokemon.torchic_dawnian.cry"
 				}
 			}
 		},

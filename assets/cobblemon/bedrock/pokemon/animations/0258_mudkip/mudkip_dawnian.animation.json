@@ -55,7 +55,7 @@
 			"animation_length": 1.2,
 			"sound_effects": {
 				"0.0417": {
-					"effect": "pokemon.mudkip_dawnian_dawnian.cry"
+					"effect": "pokemon.mudkip_dawnian.cry"
 				}
 			}
 		},
