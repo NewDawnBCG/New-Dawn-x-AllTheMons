@@ -1,0 +1,285 @@
+{
+  "species": "cobblemon:rotom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "smog-appliance"
+      ],
+      "poser": "cobblemon:rotom_smog",
+      "model": "cobblemon:rotom_smog.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/smog/rotom_smog.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/smog/rotom_smog_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+     {
+      "aspects": [
+        "jack-appliance"
+      ],
+      "poser": "cobblemon:rotom_jack",
+      "model": "cobblemon:rotom_jack.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/jack/rotom_jack.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/jack/rotom_jack_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+      {
+      "aspects": [
+        "vision-appliance"
+      ],
+      "poser": "cobblemon:rotom_vision",
+      "model": "cobblemon:rotom_vision.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/vision/rotom_vision.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/vision/rotom_vision_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+       {
+      "aspects": [
+        "sound-appliance"
+      ],
+      "poser": "cobblemon:rotom_sound",
+      "model": "cobblemon:rotom_sound.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/sound/rotom_sound.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/sound/rotom_sound_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "heat-appliance"
+      ],
+      "poser": "cobblemon:rotom_heat",
+      "model": "cobblemon:rotom_heat.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/heat/rotom_heat.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/heat/rotom_heat_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "fan-appliance"
+      ],
+      "poser": "cobblemon:rotom_fan",
+      "model": "cobblemon:rotom_fan.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/fan/rotom_fan.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/fan/rotom_fan_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "frost-appliance"
+      ],
+      "poser": "cobblemon:rotom_frost",
+      "model": "cobblemon:rotom_frost.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/frost/rotom_frost.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/frost/rotom_frost_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "wash-appliance"
+      ],
+      "poser": "cobblemon:rotom_wash",
+      "model": "cobblemon:rotom_wash.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/wash/rotom_wash.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/wash/rotom_wash_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "mow-appliance"
+      ],
+      "poser": "cobblemon:rotom_mow",
+      "model": "cobblemon:rotom_mow.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/mow/rotom_mow.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/mow/rotom_mow_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+      {
+      "aspects": [
+        "smog-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_smog",
+      "model": "cobblemon:rotom_smog.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/smog/rotom_smog_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/smog/rotom_smog_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "jack-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_jack",
+      "model": "cobblemon:rotom_jack.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/jack/rotom_jack_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/jack/rotom_jack_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+     {
+      "aspects": [
+        "vision-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_vision",
+      "model": "cobblemon:rotom_vision.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/vision/rotom_vision_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/vision/rotom_vision_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "sound-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_sound",
+      "model": "cobblemon:rotom_sound.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/sound/rotom_sound_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/sound/rotom_sound_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "heat-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_heat",
+      "model": "cobblemon:rotom_heat.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/heat/rotom_heat_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/heat/rotom_heat_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "fan-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_fan",
+      "model": "cobblemon:rotom_fan.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/fan/rotom_fan_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/fan/rotom_fan_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "frost-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_frost",
+      "model": "cobblemon:rotom_frost.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/frost/rotom_frost_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/frost/rotom_frost_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "wash-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_wash",
+      "model": "cobblemon:rotom_wash.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/wash/rotom_wash_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/wash/rotom_wash_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "mow-appliance",
+        "shiny"
+      ],
+      "poser": "cobblemon:rotom_mow",
+      "model": "cobblemon:rotom_mow.geo",
+      "texture": "cobblemon:textures/pokemon/0479_rotom/mow/rotom_mow_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0479_rotom/mow/rotom_mow_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

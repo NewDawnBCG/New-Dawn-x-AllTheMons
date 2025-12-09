@@ -3,6 +3,22 @@
     {
       "stack": "item:kubejs:mega_stone{\"mega_showdown:registry_location_component\":\"cobblemon:laprasite\",\"mega_showdown:registry_type_component\":\"mega\",\"minecraft:custom_model_data\":1,\"minecraft:item_name\":\u0027\"Laprasite\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"Allows Lapras to Mega Evolve into Mega Lapras\"}\u0027]}",
       "after": "item:mega_showdown:kangaskhanite"
+    },
+    {
+      "stack": "item:kubejs:dummy{\"mega_showdown:registry_location_component\":\"cobblemon:vision_appliance\",\"mega_showdown:registry_type_component\":\"form_change_interact\",\"minecraft:custom_model_data\":4,\"minecraft:item_name\":\u0027\"Headset Unit\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"A special Headset a specific Pokemon can enter.\"}\u0027]}",
+      "after": "item:mega_showdown:rotom_oven"
+    },
+    {
+      "stack": "item:kubejs:dummy{\"mega_showdown:registry_location_component\":\"cobblemon:sound_appliance\",\"mega_showdown:registry_type_component\":\"form_change_interact\",\"minecraft:custom_model_data\":3,\"minecraft:item_name\":\u0027\"Speaker Unit\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"A special Speaker a specific Pokemon can enter.\"}\u0027]}",
+      "after": "item:mega_showdown:rotom_oven"
+    },
+    {
+      "stack": "item:kubejs:dummy{\"mega_showdown:registry_location_component\":\"cobblemon:jack_appliance\",\"mega_showdown:registry_type_component\":\"form_change_interact\",\"minecraft:custom_model_data\":2,\"minecraft:item_name\":\u0027\"Drill Unit\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"A special Jackhammer a specific Pokemon can enter.\"}\u0027]}",
+      "after": "item:mega_showdown:rotom_oven"
+    },
+    {
+      "stack": "item:kubejs:dummy{\"mega_showdown:registry_location_component\":\"cobblemon:smog_appliance\",\"mega_showdown:registry_type_component\":\"form_change_interact\",\"minecraft:custom_model_data\":1,\"minecraft:item_name\":\u0027\"Vape Unit\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"A special Vape a specific Pokemon can enter.\"}\u0027]}",
+      "after": "item:mega_showdown:rotom_oven"
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "kubejs:item/dummy"
+    },
+    "overrides": [
+        {
+            "model": "newdawn:item/vape",
+            "predicate": {
+                "custom_model_data": 1
+            }
+        },
+        {
+            "model": "newdawn:item/drill",
+            "predicate": {
+                "custom_model_data": 2
+            }
+        },
+        {
+            "model": "newdawn:item/speaker",
+            "predicate": {
+                "custom_model_data": 3
+            }
+        },
+        {
+            "model": "newdawn:item/headset",
+            "predicate": {
+                "custom_model_data": 4
+            }
+        }
+    ]
+}

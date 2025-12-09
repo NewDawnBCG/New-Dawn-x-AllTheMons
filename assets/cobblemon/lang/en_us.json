@@ -347,5 +347,17 @@
     "cobblemon.species.papileon.desc": "PLACEHOLDER - I'm not keeping whatever Luki had before",
     
     "cobblemon.species.lindcider.name": "Lindcider",
-    "cobblemon.species.lindcider.desc": "Over time, the sap residing in Dripplin's juice box ferments, causing evolution. Lindcider is in a constant state of drunken induced dizziness, and has a hard time placing where it is or where it's going at times. The liquid that Lindcider produces is not safe to consume, and is highly toxic to humans."
+    "cobblemon.species.lindcider.desc": "Over time, the sap residing in Dripplin's juice box ferments, causing evolution. Lindcider is in a constant state of drunken induced dizziness, and has a hard time placing where it is or where it's going at times. The liquid that Lindcider produces is not safe to consume, and is highly toxic to humans.",
+
+    "cobblemon.ui.pokedex.info.form.rotom-smog": "Smog Rotom",
+    "cobblemon.species.rotom-smog.desc": "A form in which Rotom lurks within an odd inhaler. A bothersome Pokémon, causing trouble by blowing noxious fumes into the air.",
+
+    "cobblemon.ui.pokedex.info.form.rotom-jack": "Jack Rotom",
+    "cobblemon.species.rotom-jack.desc": "A form in which Rotom lurks within a weird-looking pickaxe. A bothersome Pokémon, causing trouble by uprooting infrastructure.",
+
+    "cobblemon.ui.pokedex.info.form.rotom-sound": "Sound Rotom",
+    "cobblemon.species.rotom-sound.desc": "A form in which Rotom lurks within a peculiar box. A bothersome Pokémon, causing trouble by playing loud noises day and night.",
+
+    "cobblemon.ui.pokedex.info.form.rotom-vision": "Vision Rotom",
+    "cobblemon.species.rotom-vision.desc": "A form in which Rotom lurks within a unorthodox pair of goggles. A bothersome Pokémon, causing trouble by playing psychic tricks on those who wear it."
 }
