@@ -3,20 +3,15 @@
 	"order": 1,
 	"variations": [
 		{
-			"aspects": [
-				"hisuian"
-			],
-			"poser": "cobblemon:arcanine",
+			"aspects": ["hisuian"],
 			"model": "cobblemon:arcanine_hisuian.geo",
-			"texture": "cobblemon:textures/pokemon/0059_arcanine/arcanine_hisui.png",
-			"layers": [
-				
-			]
+			"texture": "cobblemon:textures/pokemon/0059_arcanine/arcanine_hisui.png"
 		},
 		{
 			"aspects": [ 
 				"hisuian",
-				"shiny" ],
+				"shiny" 
+			],
 			"texture": "cobblemon:textures/pokemon/0059_arcanine/arcanine_hisui_shiny.png"
 		}
 	]

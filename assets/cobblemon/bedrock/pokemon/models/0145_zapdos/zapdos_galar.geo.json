@@ -21,6 +21,15 @@
 					"pivot": [-11, 1, 0]
 				},
 				{
+					"name": "locator_seat",
+					"parent": "body",
+					"pivot": [0, 25, 5],
+					"rotation": [-15, 0, 0],
+					"locators": {
+						"seat_1": [0, 24.5, 6.75]
+					}
+				},
+				{
 					"name": "torso",
 					"parent": "body",
 					"pivot": [0, 22, -1],
