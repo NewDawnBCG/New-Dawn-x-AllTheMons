@@ -1,31 +1,7 @@
 {
   "species": "cobblemon:pidove",
-  "order": 0,
+  "order": 1,
   "variations": [
-    {
-      "aspects": [],
-      "poser": "cobblemon:pidove",
-      "model": "cobblemon:pidove.geo",
-      "texture": "cobblemon:textures/pokemon/0519_pidove/pidove.png",
-      "layers": [
-        {
-          "name": "pattern",
-          "texture": "cobblemon:textures/pokemon/0519_pidove/pidove.png",
-          "emissive": false
-        }
-      ]
-    },
-    {
-      "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/0519_pidove/pidove_shiny.png",
-      "layers": [
-        {
-          "name": "pattern",
-          "texture": "cobblemon:textures/pokemon/0519_pidove/pidove_shiny.png",
-          "emissive": false
-        }
-      ]
-    },
     {
       "aspects": ["dove-pattern-auburn"],
       "layers": [
