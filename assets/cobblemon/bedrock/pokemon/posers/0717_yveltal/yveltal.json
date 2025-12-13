@@ -104,7 +104,7 @@
       "condition": "!q.is_sprinting",
       "animations": [
         "q.look('head')",
-        "q.bedrock('yveltal', 'fly_idle'')"
+        "q.bedrock('yveltal', 'fly_idle')"
       ]
     },
     "in-air": {
