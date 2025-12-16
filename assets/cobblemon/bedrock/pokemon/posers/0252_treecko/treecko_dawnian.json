@@ -5,7 +5,7 @@
   "profileTranslation": [0, 0.68, 0],
   "rootBone": "treecko",
   "animations": {
-    "cry": "q.bedrock_stateful('treecko', 'cry')"
+    "cry": "q.bedrock_stateful('treecko_dawnian', 'cry')"
   },
   "poses": {
     "standing": {
@@ -19,10 +19,10 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('treecko', 'ground_idle')"
+        "q.bedrock('treecko_dawnian', 'ground_idle')"
       ],
       "quirks": [
-        "q.bedrock_quirk('treecko', 'blink')"
+        "q.bedrock_quirk('treecko_dawnian', 'blink')"
       ]
     },
     "walk": {
@@ -33,11 +33,11 @@
       ],
       "animations": [
         "q.look('head')",
-        "q.bedrock('treecko', 'ground_idle')",
+        "q.bedrock('treecko_dawnian', 'ground_idle')",
         "q.biped_walk(0.6, 0.9, 'leg_left', 'leg_right')"
       ],
       "quirks": [
-        "q.bedrock_quirk('treecko', 'blink')"
+        "q.bedrock_quirk('treecko_dawnian', 'blink')"
       ]
     }
   }
