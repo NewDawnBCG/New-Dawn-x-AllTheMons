@@ -1,138 +1,44 @@
 {
-  "head": "head",
-  "portraitScale": 2.3,
-  "portraitTranslation": [-0.2, 2.8, 0],
-  "profileScale": 0.52,
-  "profileTranslation": [0, 1.05, 0],
-"animations": {
+  "portraitScale": 2.29,
+  "portraitTranslation": [-0.23, 2.66, 0],
+  "profileScale": 0.46,
+  "profileTranslation": [0, 1.04, 0],
+  "rootBone": "lucario",
+  "animations": {
     "cry": "q.bedrock_stateful('lucario', 'cry')",
 	"status": "q.bedrock_stateful('lucario', 'cry')",
 	"recoil": "q.bedrock_stateful('lucario', 'recoil')",
 	"faint": "q.bedrock_primary('lucario', 'faint', q.curve('one'))",
 	"physical": "q.bedrock_primary('lucario', 'physical', q.curve('symmetrical_wide'))",
 	"special": "q.bedrock_primary('lucario', 'special', q.curve('symmetrical_wide'))"
- },
+  },
   "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('lucario', 'battle_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('lucario', 'blink')"]
+    },
     "standing": {
-      "poseName": "standing",
-      "transformTicks": 10,
-      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "poseTypes": ["STAND", "FLOAT", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": [
-        "look",
-        "bedrock(lucario, ground_idle)"
+        "q.look('head')",
+        "q.bedrock('lucario', 'ground_idle')"
       ],
-      "quirks": [
-        {
-          "name": "blink",
-          "animations": ["bedrock(lucario, blink)"]
-        },
-        {
-          "name": "senseaura",
-          "loopTimes": 1,
-          "minSecondsBetweenOccurrences": 140,
-          "maxSecondsBetweenOccurrences": 180,
-          "animations": ["bedrock(lucario, senseaura)"]
-        }
-      ]
+      "quirks": ["q.bedrock_quirk('lucario', 'blink')"]
     },
     "walking": {
-      "poseName": "walking",
-      "transformTicks": 10,
-      "poseTypes": ["WALK"],
+      "poseTypes": ["WALK", "SWIM"],
+      "isBattle": false,
       "animations": [
-        "look",
-        "bedrock(lucario, ground_walk)"
+        "q.look('head')",
+        "q.bedrock('lucario', 'ground_walk')"
       ],
-      "quirks": [
-        {
-          "name": "blink",
-          "animations": ["bedrock(lucario, blink)"]
-        }
-      ]
-    },    
-      "floating": {
-      "poseName": "floating",
-      "transformTicks": 10,
-      "isTouchingWater": true,
-      "poseTypes": [ "FLOAT" ],
-      "animations": [
-        "look",
-        "bedrock(lucario, water_idle)"
-      ],
-      "quirks": [
-        {
-          "name": "blink",
-          "animations": ["bedrock(lucario, blink)"]
-        }
-      ]
-    },
-    "swimming": {
-      "poseName": "swimming",
-      "transformTicks": 10,
-      "isTouchingWater": true,
-      "poseTypes": [ "SWIM" ],
-      "animations": [
-        "look",
-        "bedrock(lucario, water_swim)"
-      ],
-      "quirks": [
-        {
-          "name": "blink",
-          "animations": ["bedrock(lucario, blink)"]
-        }
-      ]
-    },
-    "sleeping": {
-      "poseName": "sleeping",
-      "transformTicks": 10,
-      "poseTypes": ["SLEEP"],
-      "animations": [ "bedrock(lucario, sleep)" ]
-    },
-      "battle-idle": {
-        "poseName": "battle-idle",
-        "transformTicks": 10,
-        "poseTypes": ["STAND"],
-        "isBattle": true,
-        "animations": [
-          "look",
-          "bedrock(lucario, battle_idle)"
-        ],
-      "quirks": [
-        {
-          "name": "blink",
-          "animations": ["bedrock(lucario, blink)"]
-        }
-      ]
-      },
-    "shoulder_left": {
-      "poseName": "shoulder_left",
-      "transformTicks": 10,
-      "poseTypes": ["SHOULDER_LEFT"],
-      "animations": [
-        "look",
-        "bedrock(lucario, shoulder_left)"
-      ],
-      "quirks": [
-        {
-          "name": "blink",
-          "animations": ["bedrock(lucario, blink)"]
-        }
-      ]
-    },
-    "shoulder_right": {
-      "poseName": "shoulder_right",
-      "transformTicks": 10,
-      "poseTypes": ["SHOULDER_RIGHT"],
-      "animations": [
-        "look",
-        "bedrock(lucario, shoulder_right)"
-      ],      "quirks": [
-        {
-          "name": "blink",
-          "animations": ["bedrock(lucario, blink)"]
-        }
-      ]
+      "quirks": ["q.bedrock_quirk('lucario', 'blink')"]
     }
   }
 }

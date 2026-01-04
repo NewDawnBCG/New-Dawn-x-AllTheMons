@@ -1,31 +1,35 @@
 {
-  "head": "head",
-  "portraitScale": 1.75,
-  "portraitTranslation": [ 0, -0.95, 0 ],
-  "profileScale": 1.15,
-  "profileTranslation": [ 0, -0.15, 0 ],
+  "portraitScale": 1.51,
+  "portraitTranslation": [0.04, -0.61, 0],
+  "profileScale": 0.65,
+  "profileTranslation": [0.03, 0.82, 0],
+  "rootBone": "smoliv",
+  "animations": {
+    "cry": "q.bedrock_stateful('smoliv', 'cry')"
+  },
   "poses": {
     "standing": {
-      "poseName": "standing",
-      "transformTicks": 10,
-      "poseTypes": [
-        "STAND",
-        "NONE",
-        "PORTRAIT",
-        "PROFILE"
-      ],
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "animations": [
-        "look",
-        "bedrock(smoliv, ground_idle)"
+        "q.bedrock('smoliv', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('smoliv', 'blink')"
       ]
     },
     "walking": {
-      "poseName": "walking",
-      "transformTicks": 10,
-      "poseTypes": [ "WALK" ],
-      "animations": [ 
-        "look",
-        "bedrock(smoliv, ground_walk)"
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('smoliv', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('smoliv', 'blink')"
+      ]
+    },
+    "sleeping": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.bedrock('smoliv', 'sleep')"
       ]
     }
   }

@@ -18,7 +18,7 @@
         "poseTypes": ["STAND"],
         "isBattle": true,
         "animations": [
-          "q.look('head')",
+          "q.look('neck')",
           "q.bedrock('typhlosion_hisuian', 'battle_idle')",
           "q.bedrock('typhlosion_hisuian', 'battle_flame')"
         ],
@@ -31,7 +31,7 @@
         "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
         "isBattle": false,
         "animations": [
-          "q.look('head')",
+          "q.look('neck')",
           "q.bedrock('typhlosion_hisuian', 'ground_idle')"
         ],
         "quirks": [
@@ -42,7 +42,7 @@
         "poseTypes": ["WALK"],
 		"isBattle": false,
         "animations": [
-          "q.look('head')",
+          "q.look('neck')",
           "q.bedrock('typhlosion_hisuian', 'ground_walk')"
         ],
         "quirks": ["q.bedrock_quirk('typhlosion_hisuian', 'blink')"]
@@ -51,7 +51,7 @@
         "poseTypes": ["WALK"],
 		"isBattle": true,
         "animations": [
-          "q.look('head')",
+          "q.look('neck')",
           "q.bedrock('typhlosion_hisuian', 'battle_walk')"
         ],
         "quirks": ["q.bedrock_quirk('typhlosion_hisuian', 'blink')"]

@@ -56,19 +56,11 @@
 					]
 				},
 				{
-					"name": "eruptionlocators",
+					"name": "locator_back",
 					"parent": "torso3",
-					"pivot": [0, 17, -22],
+					"pivot": [0, 16, -24],
 					"locators": {
-						"eruption_center": [0, 17, -22],
-						"eruption_right": {
-							"offset": [-6, 17, -22],
-							"rotation": [0, 0, -45]
-						},
-						"eruption_left": {
-							"offset": [6, 17, -22],
-							"rotation": [0, 0, 45]
-						}
+						"middle": [0, 16, -24]
 					}
 				},
 				{
@@ -86,6 +78,15 @@
 					"cubes": [
 						{"origin": [-5, 6.5, -39.5], "size": [10, 10, 5], "inflate": 0.03, "uv": [4, 16]}
 					]
+				},
+				{
+					"name": "locator_mouth",
+					"parent": "head",
+					"pivot": [0, 7, -39.5],
+					"locators": {
+						"mouth": [0, 7, -39.5],
+						"special": [0, 7, -39.5]
+					}
 				},
 				{
 					"name": "head2",

@@ -6,7 +6,8 @@
   "rootBone": "luxray",
   "animations": {
     "cry": "q.bedrock_stateful('luxray', 'cry')",
-	"status": "q.bedrock_stateful('luxray', 'cry')",
+	"recoil": "q.bedrock_stateful('luxray', 'recoil')",
+	"status": "q.bedrock_primary('luxray', 'battle_cry', q.curve('symmetrical_wide'))",
 	"special": "q.bedrock_primary('luxray', 'special', q.curve('symmetrical_wide'))",
 	"physical": "q.bedrock_primary('luxray', 'physical', q.curve('symmetrical_wide'))"
   },

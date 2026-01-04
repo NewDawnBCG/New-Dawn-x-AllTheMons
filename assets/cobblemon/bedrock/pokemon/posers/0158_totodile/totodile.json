@@ -6,6 +6,8 @@
   "rootBone": "totodile",
   "animations": {
     "cry": "q.bedrock_stateful('totodile', 'cry')",
+	"status": "q.bedrock_stateful('totodile', 'cry')",
+	"faint": "q.bedrock_primary('totodile', 'faint', q.curve('one'))",
 	"physical": "q.bedrock_primary('totodile', 'physical', q.curve('symmetrical_wide'))"
 	
   },

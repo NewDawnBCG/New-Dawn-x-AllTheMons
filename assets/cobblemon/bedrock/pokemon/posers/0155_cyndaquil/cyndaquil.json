@@ -21,7 +21,7 @@
       "poseTypes": ["STAND", "FLOAT"],
 	  "isBattle": false,
       "animations": ["q.look('head')", "q.bedrock('cyndaquil', 'ground_idle')"],
-      "quirks": ["q.bedrock_quirk('cyndaquil', 'sneeze_quirk_ground')"]
+      "quirks": ["q.bedrock_quirk('cyndaquil', 'sneeze_quirk_ground', 30, 75, 1)"]
     },
     "battle-standing": {
       "poseTypes": ["STAND"],
@@ -31,7 +31,7 @@
             "cry": "q.bedrock_stateful('cyndaquil', 'battle_cry')"
           },
       "quirks": [
-	  "q.bedrock_quirk('cyndaquil', 'sneeze_quirk_battle')"
+	  "q.bedrock_quirk('cyndaquil', 'sneeze_quirk_battle', 30, 75, 1)"
 	  ]
     },
     "walking": {

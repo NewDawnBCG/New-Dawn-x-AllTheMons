@@ -5,7 +5,7 @@
 			"identifier": "cobblemon:aura_idle",
 			"basic_render_parameters": {
 				"material": "particles_alpha",
-				"texture": "textures/particles/small-fadeorb"
+				"texture": "textures/particles/smallfadeorb"
 			}
 		},
 		"components": {

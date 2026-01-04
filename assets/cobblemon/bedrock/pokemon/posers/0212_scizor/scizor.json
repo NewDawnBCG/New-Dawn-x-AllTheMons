@@ -1,14 +1,14 @@
 {
-  "portraitScale": 2.3,
-  "portraitTranslation": [-0.3, 2.3, 0.0],
-  "profileScale": 0.6,
-  "profileTranslation": [0.0, 0.9, 0.0],
+  "portraitScale": 2,
+  "portraitTranslation": [-0.19,2.21,0],
+  "profileScale": 0.52,
+  "profileTranslation": [0.03,0.96,0],
   "rootBone": "scizor",
   "animations": {
     "cry": "q.bedrock_stateful('scizor', 'cry')",
 	"status": "q.bedrock_stateful('scizor', 'cry', q.curve('symmetrical_wide'))",
 	"recoil": "q.bedrock_stateful('scizor', 'recoil')",
-	"faint": "q.bedrock_stateful('scizor', 'faint', q.curve('symmetrical_wide'))"
+	"faint": "q.bedrock_primary('scizor', 'faint', q.curve('symmetrical_wide'))"
   },
   "poses": {
     "battle-standing": {
@@ -16,13 +16,9 @@
       "poseTypes": ["STAND"],
       "isBattle": true,
       "animations": ["q.look('head_pivot')", "q.bedrock('scizor', 'battle_idle')"],
-	  "namedAnimations": {
-			"physical": "q.bedrock_primary('scizor', 'physical', q.curve('symmetrical_wide'))",
-			"special": "q.bedrock_primary('scizor', 'physical', q.curve('symmetrical_wide'))"		
-          },
       "quirks": [
-	  "q.bedrock_quirk('scizor', 'blink')",
-	  "q.bedrock_quirk('scizor', 'snap_quirk', 6, 32, 1)"]
+	  "q.bedrock_quirk('scizor', 'blink')"
+	  ]
     },
 	"standing": {
       "poseTypes": ["STAND", "NONE", "FLOAT", "PORTRAIT", "PROFILE"],
@@ -34,7 +30,7 @@
       "poseTypes": ["WALK", "SWIM"],
       "animations": [
         "q.look('head_pivot')",
-        "q.bedrock('scizor', 'air_fly')"
+        "q.bedrock('scizor', 'ground_walk')"
       ],
       "quirks": [
 	  "q.bedrock_quirk('scizor', 'blink')"]

@@ -8,26 +8,26 @@
 					"position": [0, "0 - (0/11 + (0 * 0.1)) + math.abs(math.sin(((query.anim_time) - (1.1/1.5)) * 90 * 1.5) * (0/11 + (0 * 0.1)))", 0]
 				},
 				"torso": {
-					"rotation": [15.5, "- math.sin(((query.anim_time) - (0.25/1.5)) * 90 * 1.5) * 1", "0+math.sin(((query.anim_time) - (0.25/1.5)) * 90 * 1.5) * 0"]
+					"rotation": ["15.5-math.sin(query.anim_time*90*1.5+60)*0.75", 0, 0]
 				},
 				"head": {
-					"rotation": ["-20+math.sin(q.anim_time*90*2-0)*1", "math.sin(((query.anim_time) - (0.5/1.5)) * 90 * 1.5) * (1 * 1.5)", 0],
+					"rotation": ["-20+math.sin(q.anim_time*90*2-0)*1", 0, 0],
 					"position": [0, 0, "0 - (23 / 10)"]
 				},
 				"arm_left": {
-					"rotation": ["-3.0298+0", "21.613+0 - math.sin(((query.anim_time) - (0.5/1.5)) * 90 * 1.5) * 3", "49.1481+0"]
+					"rotation": [-4, 15, "57.5-math.sin(query.anim_time*90*1.5-0)*2 "]
 				},
 				"arm_left2": {
-					"rotation": [-1.72773, "17.4731+math.clamp(math.sin(((query.anim_time) + (0.75/1.5)) * 90 * 1.5) * 3, 0, 3)", "22.3466+0"]
+					"rotation": [-1.5, 15, "15-math.sin(query.anim_time*90*1.5-60)*1.5"]
 				},
 				"arm_right": {
-					"rotation": ["-4.6849+0", "-16.3462 - 0 - math.sin(((query.anim_time) - (0.5/1.5)) * 90 * 1.5) * 3", "-46.5912+0"]
+					"rotation": [-4, -15, "-57.5+math.sin(query.anim_time*90*1.5-0)*2 "]
 				},
 				"arm_right2": {
-					"rotation": [-1.63708, "-22.5386 - math.clamp(math.sin(((query.anim_time) - (1/1.5)) * 90 * 1.5) * 3, 0, 3)", "-24.0576 - 0"]
+					"rotation": [-1.5, -15, "-15+math.sin(query.anim_time*90*1.5-60)*1.5"]
 				},
 				"waist": {
-					"rotation": [13, "0- math.sin(((query.anim_time) - (0.5/1.5)) * 90 * 1.5) * 1", "0+math.sin(((query.anim_time) - (0.5/1.5)) * 90 * 1.5) * 0"]
+					"rotation": ["13-math.sin(query.anim_time*90*1.5+30)*0.65", 0, 0]
 				},
 				"leg_left": {
 					"rotation": [
@@ -84,17 +84,17 @@
 					"rotation": ["math.sin(((query.anim_time) - (1.35/1.5)) * 180 * 1.5) * (0)", 0, 0]
 				},
 				"hair5": {
-					"rotation": ["-22.5+0", "math.sin(((query.anim_time) - ((11 * 0.1)/1.5)) * 90 * 1.5) * (2)", 0]
+					"rotation": ["-30-math.sin(query.anim_time*90*1.5-30)*-0.75", 0, 0]
 				},
 				"hair6": {
-					"rotation": ["-19.6599+math.sin(q.anim_time*90*2-0)*0.5", 3.21132, 0]
+					"rotation": ["-32.5-math.sin(query.anim_time*90*1.5-60)*-1", 0, 0]
 				},
 				"hair7": {
-					"rotation": ["-22.5+math.sin(q.anim_time*90*2-0)*0.5", "math.sin(((query.anim_time) - (((11 * 0.1)+1)/1.5)) * 90 * 1.5) * (2/2)", 0],
-					"position": [0, 0, -3]
+					"rotation": ["-20-math.sin(query.anim_time*90*1.5-90)*-1.25", 0, 0],
+					"position": [0, 0, -3.2]
 				},
 				"hair8": {
-					"rotation": ["-22.5+math.sin(q.anim_time*90*2-10)*1", 0, 0],
+					"rotation": ["-10-math.sin(query.anim_time*90*1.5-120)*-1", 0, 0],
 					"position": [0, 0, -2]
 				},
 				"hair9": {
@@ -102,7 +102,7 @@
 					"position": [0, 0, -2]
 				},
 				"hair10": {
-					"rotation": [25, 0, 0]
+					"rotation": ["25-math.sin(query.anim_time*90*1.5-180)*-1.75", 0, 0]
 				},
 				"claw_back_right": {
 					"rotation": [0, 0, -10]
@@ -111,10 +111,13 @@
 					"rotation": [0, 0, -10]
 				},
 				"bead": {
-					"rotation": [35, 0, 0]
+					"rotation": ["35-math.sin(query.anim_time*90*1.5-150)*-1.5", 0, 0]
 				},
 				"hair11": {
-					"rotation": [17.5, 0, 0]
+					"rotation": ["17.5-math.sin(query.anim_time*90*1.5-240)*-3", 0, 0]
+				},
+				"hair3": {
+					"rotation": [5, 0, 0]
 				}
 			}
 		},
@@ -417,6 +420,44 @@
 						"0.0833": [0.11, 0, 0],
 						"0.7083": [0.11, 0, 0],
 						"0.75": [-0.39, 0, 0]
+					}
+				},
+				"hair4": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.0417": {
+							"pre": [-2.5, 0, 0],
+							"post": [-2.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.1667": {
+							"post": [5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.5": {
+							"post": [4, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.75": [0, 0, 0]
+					}
+				},
+				"hair8": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.0417": {
+							"pre": [-5, 0, 0],
+							"post": [-5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.1667": {
+							"post": [5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.5": {
+							"post": [4, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.75": [0, 0, 0]
 					}
 				}
 			}
