@@ -6,14 +6,14 @@
       "aspects": [],
       "poser": "cobblemon:ironhands",
       "model": "cobblemon:ironhands.geo",
-      "texture": "cobblemon:textures/pokemon/ironhands/ironhands.png",
+      "texture": "cobblemon:textures/pokemon/0992_ironhands/ironhands.png",
       "layers": []
     },
     {
       "aspects": ["shiny"],
       "poser": "cobblemon:ironhands",
       "model": "cobblemon:ironhands.geo",
-      "texture": "cobblemon:textures/pokemon/ironhands/ironhands_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0992_ironhands/ironhands_shiny.png",
       "layers": []
     }
   ]
