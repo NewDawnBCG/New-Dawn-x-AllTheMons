@@ -247,7 +247,7 @@
 			},
 			"sound_effects": {
 				"0.125": {
-					"effect": "pokemon.cafe_tropius.cry"
+					"effect": "pokemon.tropius.cry"
 				}
 			}
 		},
@@ -1885,7 +1885,7 @@
 		"animation.cafe_tropius.walkspeed_test": {
 			"loop": true,
 			"bones": {
-				"cafe_tropius": {
+				"tropius": {
 					"position": [0, 0, "39-q.anim_time*90*0.12"]
 				}
 			}
@@ -1893,7 +1893,7 @@
 		"animation.cafe_tropius.runspeed_test": {
 			"loop": true,
 			"bones": {
-				"cafe_tropius": {
+				"tropius": {
 					"position": [0, 0, "39-q.anim_time*90*0.88"]
 				}
 			}

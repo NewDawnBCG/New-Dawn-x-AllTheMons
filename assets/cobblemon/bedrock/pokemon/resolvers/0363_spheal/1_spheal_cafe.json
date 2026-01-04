@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:spheal",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "model": "cobblemon:cafe_spheal.geo",
+            "texture": "cobblemon:textures/pokemon/0363_spheal/cafe_spheal.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0363_spheal/cafe_spheal_shiny.png"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:deino",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "model": "cobblemon:festive_deino.geo",
+            "texture": "cobblemon:textures/pokemon/0633_deino/festive_deino.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0633_deino/festive_deino_shiny.png"
+        }
+    ]
+}

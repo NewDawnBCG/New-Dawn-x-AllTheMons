@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.vulpix_alola",
+				"identifier": "geometry.cafe_vulpix_alola",
 				"texture_width": 64,
 				"texture_height": 164,
 				"visible_bounds_width": 4,

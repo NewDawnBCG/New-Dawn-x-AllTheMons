@@ -1,0 +1,21 @@
+{
+    "species": "cobblemon:mew",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:kimono_mew.geo",
+            "texture": "cobblemon:textures/pokemon/0151_mew/kimono_mew.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0151_mew/kimono_mew_shiny.png"
+        }
+    ]
+}

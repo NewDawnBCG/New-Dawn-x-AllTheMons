@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.flareon",
+				"identifier": "geometry.popstar_flareon",
 				"texture_width": 128,
 				"texture_height": 268,
 				"visible_bounds_width": 7,

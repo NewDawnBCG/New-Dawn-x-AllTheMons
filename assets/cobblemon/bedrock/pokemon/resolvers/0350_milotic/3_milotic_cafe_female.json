@@ -1,0 +1,13 @@
+{
+    "species": "cobblemon:milotic",
+    "order": 3,
+    "variations": [
+        {
+            "aspects": [
+                "female",
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_milotic_female.geo"
+        }
+    ]
+}

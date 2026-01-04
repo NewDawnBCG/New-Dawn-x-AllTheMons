@@ -1,0 +1,36 @@
+{
+    "species": "cobblemon:marill",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget"
+            ],
+            "model": "cobblemon:festive_marill.geo",
+            "texture": "cobblemon:textures/pokemon/0183_marill/festive_marill.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/0183_marill/festive_marill_emissive.png",
+                    "emissive": true,
+                    "translucent_cull": true
+                }
+            ]
+        },
+        {
+            "aspects": [
+                "cosmetic_item-gold_nugget",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0183_marill/festive_marill_shiny.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "texture": "cobblemon:textures/pokemon/0183_marill/festive_marill_shiny_emissive.png",
+                    "emissive": true,
+                    "translucent_cull": true
+                }
+            ]
+        }
+    ]
+}

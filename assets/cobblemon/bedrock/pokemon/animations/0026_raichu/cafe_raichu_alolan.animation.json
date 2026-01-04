@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.raichu_alolan.pose": {
+		"animation.cafe_raichu_alolan.pose": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -136,7 +136,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.ground_idle": {
+		"animation.cafe_raichu_alolan.ground_idle": {
 			"loop": true,
 			"animation_length": 4,
 			"bones": {
@@ -250,7 +250,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.ground_walk": {
+		"animation.cafe_raichu_alolan.ground_walk": {
 			"loop": true,
 			"animation_length": 2,
 			"bones": {
@@ -398,7 +398,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.battle_idle": {
+		"animation.cafe_raichu_alolan.battle_idle": {
 			"loop": true,
 			"animation_length": 4,
 			"bones": {
@@ -502,7 +502,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.cry": {
+		"animation.cafe_raichu_alolan.cry": {
 			"animation_length": 3,
 			"bones": {
 				"body": {
@@ -848,7 +848,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.physical": {
+		"animation.cafe_raichu_alolan.physical": {
 			"animation_length": 3,
 			"bones": {
 				"body": {
@@ -1805,7 +1805,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.special": {
+		"animation.cafe_raichu_alolan.special": {
 			"animation_length": 3,
 			"bones": {
 				"body": {
@@ -2453,7 +2453,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.faint": {
+		"animation.cafe_raichu_alolan.faint": {
 			"animation_length": 3,
 			"bones": {
 				"body": {
@@ -3402,7 +3402,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.recoil": {
+		"animation.cafe_raichu_alolan.recoil": {
 			"animation_length": 3,
 			"bones": {
 				"torso": {
@@ -3991,7 +3991,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.ground_idle_sit": {
+		"animation.cafe_raichu_alolan.ground_idle_sit": {
 			"loop": true,
 			"animation_length": 5.3333,
 			"bones": {
@@ -4090,7 +4090,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.battle_quirk": {
+		"animation.cafe_raichu_alolan.battle_quirk": {
 			"animation_length": 3.5,
 			"bones": {
 				"body": {
@@ -4611,7 +4611,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.sleep": {
+		"animation.cafe_raichu_alolan.sleep": {
 			"loop": true,
 			"bones": {
 				"body": {
@@ -4761,7 +4761,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.rub_quirk": {
+		"animation.cafe_raichu_alolan.rub_quirk": {
 			"animation_length": 3,
 			"bones": {
 				"torso2": {
@@ -5021,7 +5021,7 @@
 				}
 			}
 		},
-		"animation.raichu_alolan.look_quirk": {
+		"animation.cafe_raichu_alolan.look_quirk": {
 			"animation_length": 4,
 			"bones": {
 				"body": {

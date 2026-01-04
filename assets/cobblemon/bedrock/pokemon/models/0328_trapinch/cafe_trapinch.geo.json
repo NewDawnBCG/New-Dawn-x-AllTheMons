@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.trapinch",
+				"identifier": "geometry.cafe_trapinch",
 				"texture_width": 64,
 				"texture_height": 64,
 				"visible_bounds_width": 2,

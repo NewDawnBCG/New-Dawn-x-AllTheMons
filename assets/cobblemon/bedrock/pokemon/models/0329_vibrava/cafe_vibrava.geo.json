@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.vibrava",
+				"identifier": "geometry.cafe_vibrava",
 				"texture_width": 128,
 				"texture_height": 64,
 				"visible_bounds_width": 5,

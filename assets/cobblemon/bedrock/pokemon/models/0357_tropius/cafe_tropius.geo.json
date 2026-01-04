@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.tropius",
+				"identifier": "geometry.cafe_tropius",
 				"texture_width": 256,
 				"texture_height": 228,
 				"visible_bounds_width": 10,

@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.unknown",
+				"identifier": "geometry.cafe_dedenne",
 				"texture_width": 64,
 				"texture_height": 184,
 				"visible_bounds_width": 9,

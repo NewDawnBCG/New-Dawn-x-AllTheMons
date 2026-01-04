@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.delphox.ground_idle": {
+		"animation.cafe_delphox.ground_idle": {
 			"loop": true,
 			"animation_length": 8,
 			"bones": {
@@ -237,7 +237,7 @@
 				}
 			}
 		},
-		"animation.delphox.ground_walk": {
+		"animation.cafe_delphox.ground_walk": {
 			"loop": true,
 			"animation_length": 1.5,
 			"bones": {
@@ -1168,7 +1168,7 @@
 				}
 			}
 		},
-		"animation.delphox.battle_idle": {
+		"animation.cafe_delphox.battle_idle": {
 			"loop": true,
 			"animation_length": 8,
 			"bones": {
@@ -1485,7 +1485,7 @@
 				}
 			}
 		},
-		"animation.delphox.blink": {
+		"animation.cafe_delphox.blink": {
 			"animation_length": 0.1667,
 			"bones": {
 				"eyelid_left": {
@@ -1502,7 +1502,7 @@
 				}
 			}
 		},
-		"animation.delphox.cry": {
+		"animation.cafe_delphox.cry": {
 			"animation_length": 1.75,
 			"bones": {
 				"head": {

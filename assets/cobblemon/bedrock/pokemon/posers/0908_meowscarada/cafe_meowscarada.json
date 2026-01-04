@@ -22,7 +22,7 @@
                 "SLEEP"
             ],
             "namedAnimations": {
-                "cry": "q.bedrock_stateful('cafe_meowscarada', 'cry')"
+                "cry": "q.bedrock_stateful('dummy', 'cry')"
             },
             "animations": [
                 "q.bedrock('cafe_meowscarada', 'sleep')"

@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:whimsicott",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_whimsicott.geo",
+            "texture": "cobblemon:textures/pokemon/0547_whimsicott/cafe_whimsicott.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0547_whimsicott/cafe_whimsicott_shiny.png"
+        }
+    ]
+}

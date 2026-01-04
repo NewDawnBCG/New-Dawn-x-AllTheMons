@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:minccino",
+    "order": 1,
+    "variations": [
+        {
+            "aspects": [
+                "cosmetic_item-white_wool"
+            ],
+            "model": "cobblemon:cafe_minccino.geo",
+            "texture": "cobblemon:textures/pokemon/0572_minccino/cafe_minccino.png"
+        },
+        {
+            "aspects": [
+                "cosmetic_item-white_wool",
+                "shiny"
+            ],
+            "texture": "cobblemon:textures/pokemon/0572_minccino/cafe_minccino_shiny.png"
+        }
+    ]
+}
