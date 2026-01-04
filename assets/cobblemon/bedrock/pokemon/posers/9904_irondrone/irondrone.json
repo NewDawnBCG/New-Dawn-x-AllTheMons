@@ -4,7 +4,8 @@
   "profileScale": 1,
   "profileTranslation": [0, 0.3, 0],
   "animations": {
-    "cry": "q.bedrock_stateful('irondrone', 'cry')"
+    "cry": "q.bedrock_stateful('irondrone', 'cry')",
+        "recoil": "q.bedrock_stateful('irondrone', 'recoil')"
   },
   "poses": {
     "battle-standing": {
@@ -53,6 +54,28 @@
         "q.bedrock('irondrone', 'water_swim')"
       ],
       "quirks": []
+    },
+      "shoulder_right": {
+      "poseTypes": ["SHOULDER_RIGHT"],
+      "animations": ["q.look('head')", "q.bedrock('irondrone', 'shoulder_right')"],
+      "quirks": [],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [10, 0, 0]
+        }
+      ]
+    },
+      "shoulder_left": {
+      "poseTypes": ["SHOULDER_LEFT"],
+      "animations": ["q.look('head')", "q.bedrock('irondrone', 'shoulder_left')"],
+      "quirks": [],
+      "transformedParts": [
+        {
+          "part": "body",
+          "position": [-10, 0, 0]
+        }
+      ]
     },
     "sleep": {
       "poseTypes": ["SLEEP"],

@@ -139,19 +139,19 @@
 					}
 				},
 				{
-					"name": "locator_face_item",
+					"name": "locator_item_face",
 					"parent": "head",
-					"pivot": [0.01356, 7.58811, -3.05],
+					"pivot": [0.01356, 7.13811, -3.05],
 					"locators": {
-						"face_item": [0.01356, 7.58811, -3.05]
+						"item_face": [0.01356, 7.13811, -3.05]
 					}
 				},
 				{
-					"name": "locator_hat",
+					"name": "locator_item_hat",
 					"parent": "head",
 					"pivot": [0, 11.74107, 0.1726],
 					"locators": {
-						"hat": [0, 11.74107, 0.1726]
+						"item_hat": [0, 11.74107, 0.1726]
 					}
 				},
 				{

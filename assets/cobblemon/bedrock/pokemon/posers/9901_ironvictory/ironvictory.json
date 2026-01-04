@@ -4,7 +4,8 @@
   "profileScale": 0.7,
   "profileTranslation": [0, 0.7, 0],
   "animations": {
-    "cry": "q.bedrock_stateful('ironvictory', 'cry')"
+    "cry": "q.bedrock_stateful('ironvictory', 'cry')",
+    "recoil": "q.bedrock_stateful('ironvictory', 'recoil')"
   },
   "poses": {
     "battle-standing": {

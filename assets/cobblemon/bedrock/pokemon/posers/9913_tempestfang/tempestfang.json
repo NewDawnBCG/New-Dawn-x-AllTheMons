@@ -4,7 +4,8 @@
   "profileScale": 0.3,
   "profileTranslation": [0, 1.4, 0],
   "animations": {
-    "cry": "q.bedrock_stateful('tempestfang', 'cry')"
+    "cry": "q.bedrock_stateful('tempestfang', 'cry')",
+    "recoil": "q.bedrock_stateful('tempestfang', 'recoil')"
   },
   "poses": {
     "battle-standing": {

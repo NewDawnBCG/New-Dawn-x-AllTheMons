@@ -4,7 +4,8 @@
  "profileScale": 0.7,
  "profileTranslation": [0, 0.7, 0],
  "animations": {
-   "cry": "q.bedrock_stateful('wildgene', 'cry')"
+   "cry": "q.bedrock_stateful('wildgene', 'cry')",
+   "recoil": "q.bedrock_stateful('wildgene', 'recoil')"
  },
  "poses": {
    "battle-standing": {

@@ -4,7 +4,8 @@
  "profileScale": 0.4,
  "profileTranslation": [0, 1.2, 0],
  "animations": {
-   "cry": "q.bedrock_stateful('ironvirus', 'cry')"
+   "cry": "q.bedrock_stateful('ironvirus', 'cry')",
+   "recoil": "q.bedrock_stateful('ironvirus', 'recoil')"
  },
  "poses": {
    "battle-standing": {
@@ -14,7 +15,8 @@
        "q.look('head')",
        "q.bedrock('ironvirus', 'battle_idle')"
      ],
-     "quirks": []
+     "quirks": [],
+     "namedAnimations": {"cry": "q.bedrock_stateful('ironvirus', 'battle_cry')"}
    },
    "standing": {
      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],

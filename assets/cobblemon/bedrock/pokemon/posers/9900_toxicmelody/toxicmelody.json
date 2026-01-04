@@ -4,7 +4,8 @@
  "profileScale": 0.5,
  "profileTranslation": [-0.1, 1, -1],
  "animations": {
-   "cry": "q.bedrock_stateful('toxicmelody', 'cry')"
+   "cry": "q.bedrock_stateful('toxicmelody', 'cry')",
+       "recoil": "q.bedrock_stateful('toxicmelody', 'recoil')"
  },
  "poses": {
    "battle-standing": {

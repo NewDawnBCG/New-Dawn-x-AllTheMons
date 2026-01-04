@@ -4,7 +4,8 @@
  "profileScale": 0.5,
  "profileTranslation": [0, 1.1, 0],
  "animations": {
-   "cry": "q.bedrock_stateful('saberjaw', 'cry')"
+   "cry": "q.bedrock_stateful('saberjaw', 'cry')",
+   "recoil": "q.bedrock_stateful('saberjaw', 'recoil')"
  },
  "poses": {
    "battle-standing": {

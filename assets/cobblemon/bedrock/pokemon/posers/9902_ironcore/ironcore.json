@@ -5,7 +5,8 @@
   "profileTranslation": [0, 0.7, 0],
   "rootBone": "ironcore",
   "animations": {
-    "cry": "q.bedrock_stateful('ironcore', 'cry')"
+    "cry": "q.bedrock_stateful('ironcore', 'cry')",
+    "recoil": "q.bedrock_stateful('ironcore', 'recoil')"
   },
   "poses": {
     "standing": {

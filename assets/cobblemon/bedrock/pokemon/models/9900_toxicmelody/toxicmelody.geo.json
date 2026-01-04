@@ -263,11 +263,11 @@
 					}
 				},
 				{
-					"name": "locator_hat",
+					"name": "locator_item_hat",
 					"parent": "head",
 					"pivot": [0, 38.35, -1.5],
 					"locators": {
-						"hat": [0, 38.35, -1.5]
+						"item_hat": [0, 38.35, -1.5]
 					}
 				},
 				{
