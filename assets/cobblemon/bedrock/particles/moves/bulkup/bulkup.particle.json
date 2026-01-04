@@ -5,7 +5,7 @@
 			"identifier": "cobblemon:bulkup_actor",
 			"basic_render_parameters": {
 				"material": "particles_alpha",
-				"texture": "textures/particles/white_orb_shrink"
+				"texture": "textures/particles/generic/orb/orbshrink_white"
 			}
 		},
 		"components": {
@@ -16,14 +16,14 @@
 				"active_time": 1
 			},
 			"minecraft:emitter_shape_sphere": {
-				"radius": "math.clamp(q.entity_radius,1,100) * 2",
+				"radius": "math.clamp(q.entity_radius,2,200) * 2",
 				"surface_only": true,
 				"direction": "inwards"
 			},
 			"minecraft:particle_lifetime_expression": {
 				"max_lifetime": "math.clamp(q.entity_radius,1,100) / 2"
 			},
-			"minecraft:particle_initial_speed": "math.clamp(q.entity_radius,1,100) * 2",
+			"minecraft:particle_initial_speed": "math.clamp(q.entity_radius,2,200) * 2",
 			"minecraft:particle_motion_dynamic": {},
 			"minecraft:particle_appearance_billboard": {
 				"size": ["math.clamp(q.entity_size, 0.03,0.1)", "math.clamp(q.entity_size, 0.03,0.1)"],

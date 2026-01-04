@@ -68,7 +68,7 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
 
 
 ### New Dawn Additions
-- [More Cobblemon Move Animations](https://modrinth.com/datapack/more-cobblemon-move-anims)
+- [Extra Move Animation](https://modrinth.com/datapack/extra-move-anims-cobblemon)
 - [CobbleMotion](https://modrinth.com/resourcepack/cobblemotion)
 - [OJ's Animations](https://modrinth.com/resourcepack/ojs-animations)
 - [Eeveelutions Reimagined](https://modrinth.com/resourcepack/eeveelutions-reimagined)

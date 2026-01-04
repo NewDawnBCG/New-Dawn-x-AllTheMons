@@ -5,7 +5,7 @@
 			"identifier": "cobblemon:aura_charge",
 			"basic_render_parameters": {
 				"material": "particles_alpha",
-				"texture": "textures/particles/medium-fadeorb"
+				"texture": "textures/particles/generic/orb/mediumfadeorb"
 			}
 		},
 		"curves": {

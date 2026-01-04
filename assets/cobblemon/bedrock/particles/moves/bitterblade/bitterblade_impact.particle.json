@@ -5,7 +5,7 @@
 			"identifier": "cobblemon:bitterblade_impact",
 			"basic_render_parameters": {
 				"material": "particles_blend",
-				"texture": "textures/particles/ripple"
+				"texture": "textures/particles/generic/water/ripple_white"
 			}
 		},
 		"curves": {

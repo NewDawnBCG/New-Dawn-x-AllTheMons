@@ -5,7 +5,7 @@
 			"identifier": "cobblemon:aurasphere_target",
 			"basic_render_parameters": {
 				"material": "particles_blend",
-				"texture": "textures/particles/energyball"
+				"texture": "textures/particles/generic/orb/energyorb"
 			}
 		},
 		"events": {
