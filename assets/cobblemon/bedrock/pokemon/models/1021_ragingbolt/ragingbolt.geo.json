@@ -33,6 +33,15 @@
 					]
 				},
 				{
+					"name": "locator_seat_1",
+					"parent": "body_main",
+					"pivot": [0, 43.5, -3],
+					"rotation": [-15, 0, 0],
+					"locators": {
+						"seat_1": [0, 43.5, -3]
+					}
+				},
+				{
 					"name": "head",
 					"parent": "body_main",
 					"pivot": [0.89513, 38, -21.34727]

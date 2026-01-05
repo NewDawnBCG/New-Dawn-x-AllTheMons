@@ -256,6 +256,15 @@
 					]
 				},
 				{
+					"name": "locator_seat_1",
+					"parent": "bot_2",
+					"pivot": [0, -3, 8],
+					"rotation": [-40, 0, 0],
+					"locators": {
+						"seat_1": [0, -3, 8]
+					}
+				},
+				{
 					"name": "left_leg_rotation",
 					"parent": "torso_all",
 					"pivot": [4.5, 7.5, -2.5]

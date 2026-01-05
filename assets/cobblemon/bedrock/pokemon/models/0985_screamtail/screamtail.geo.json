@@ -508,6 +508,14 @@
 					]
 				},
 				{
+					"name": "locator_seat_1",
+					"parent": "shake",
+					"pivot": [0, 24, 8],
+					"locators": {
+						"seat_1": [0, 24, 8]
+					}
+				},
+				{
 					"name": "leg",
 					"parent": "body",
 					"pivot": [0, 0, 0]

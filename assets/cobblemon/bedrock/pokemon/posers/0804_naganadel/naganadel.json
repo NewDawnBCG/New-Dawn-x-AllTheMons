@@ -1,62 +1,59 @@
 {
-  "portraitScale": 2,
-  "portraitTranslation": [-1.8,4.4, 0],
-  "profileScale": 0.6,
-  "profileTranslation": [0, 1.4, -1.8],
-  "animations": {
-    "cry": "q.bedrock_stateful('naganadel', 'cry')",
-    "recoil": "q.bedrock_stateful('naganadel', 'recoil')",
-    "physical": "q.bedrock_primary('naganadel', 'physical', q.curve('symmetrical_wide'))",
-    "special": "q.bedrock_primary('naganadel', 'special', q.curve('symmetrical_wide'))",
-    "status": "q.bedrock_stateful('naganadel', 'status', q.curve('symmetrical_wide'))"
-  },
-  "poses": {
-    "battle-standing": {
-      "poseTypes": ["STAND", "WALK"],
-      "isBattle": true,
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('naganadel', 'battle_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('naganadel', 'headshake')"
-      ]
-    },
-    "standing": {
-      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "isBattle": false,
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('naganadel', 'ground_idle')"
-      ],
-      "quirks": [
-        "q.bedrock_quirk('naganadel', 'headshake')"
-      ]
-    },
-    "walking": {
-      "poseTypes": ["WALK"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('naganadel', 'ground_walk')"
-      ]
-    },
-    "float": {
-      "poseTypes": ["FLOAT"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('naganadel', 'ground_walk')"
-      ]
-    },
-    "swim": {
-      "poseTypes": ["SWIM"],
-      "animations": [
-        "q.look('head')",
-        "q.bedrock('naganadel', 'ground_walk')"
-      ]
-    },
-    "sleep": {
-      "poseTypes": ["SLEEP"],
-      "animations": ["q.bedrock('naganadel', 'ground_idle')"]
+  "target": "cobblemon:naganadel",
+  "implemented": true,
+  "behaviour": {
+    "moving": {
+      "canLook": true,
+      "walk": {
+        "walkSpeed": 0.6,
+        "canWalk": true
+      },
+      "fly": {
+        "canFly": true
+      }
     }
+  },
+  "riding": {
+    "behaviours": {
+      "LAND": {
+        "key": "cobblemon:land/horse",
+        "rideSounds": [],
+        "stats": {
+          "ACCELERATION": "55-85",
+          "JUMP": "15-35",
+          "SKILL": "20-40",
+          "SPEED": "50-70",
+          "STAMINA": "35-65"
+        }
+      },
+      "AIR": {
+        "key": "cobblemon:air/bird",
+        "rideSounds": [
+          {
+            "muffleEnabled": true,
+            "pitchExpr": "math.max(1.0 ,0.2 + math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2))",
+            "playForNonPassengers": true,
+            "soundLocation": "cobblemon:ride.loop.wind",
+            "volumeExpr": "math.pow(math.min(q.ride_velocity() / 1.5, 1.0),2)"
+          }
+        ],
+        "stats": {
+          "ACCELERATION": "55-85",
+          "JUMP": "45-75",
+          "SKILL": "60-90",
+          "SPEED": "60-90",
+          "STAMINA": "35-65"
+        }
+      }
+    },
+    "seats": [
+      {
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    ]
   }
 }

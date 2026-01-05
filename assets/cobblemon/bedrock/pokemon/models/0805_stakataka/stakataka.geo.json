@@ -263,6 +263,14 @@
 					"pivot": [-3, 58, 0.95]
 				},
 				{
+					"name": "locator_seat_1",
+					"parent": "body",
+					"pivot": [0, 77, -14],
+					"locators": {
+						"seat_1": [0, 77, -14]
+					}
+				},
+				{
 					"name": "top",
 					"parent": "body",
 					"pivot": [0, 72.34615, -0.04231],

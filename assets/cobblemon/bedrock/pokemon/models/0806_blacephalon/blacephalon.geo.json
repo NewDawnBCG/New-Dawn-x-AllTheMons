@@ -53,6 +53,14 @@
 					]
 				},
 				{
+					"name": "locator_seat_1",
+					"parent": "torso_top",
+					"pivot": [0, 76, 12.5],
+					"locators": {
+						"seat_1": [0, 76, 12.5]
+					}
+				},
+				{
 					"name": "head_ball",
 					"parent": "torso_top",
 					"pivot": [0, 85.625, 0],
