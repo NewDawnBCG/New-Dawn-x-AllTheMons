@@ -21,6 +21,14 @@
 					"pivot": [0, 24, 0]
 				},
 				{
+					"name": "locator_seat_1",
+					"parent": "body",
+					"pivot": [0, 40, 0],
+					"locators": {
+						"seat_1": [0, 40, 0]
+					}
+				},
+				{
 					"name": "torso",
 					"parent": "body",
 					"pivot": [0, 10.75, 9.5],
@@ -544,6 +552,15 @@
 					"cubes": [
 						{"origin": [4.5, 10.75, -40.8], "size": [0, 4, 8], "uv": [0, 4]}
 					]
+				},
+				{
+					"name": "locator_mouth",
+					"parent": "head",
+					"pivot": [0, 7, -39.5],
+					"locators": {
+						"mouth": [0, 7, -39.5],
+						"special": [0, 7, -39.5]
+					}
 				},
 				{
 					"name": "arm_right",

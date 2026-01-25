@@ -8,7 +8,6 @@
   "poses": {
     "standing": {
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
-      "isBattle": false,
       "animations": [
         "q.look('neck', 1, 1, 70, -10, 20, -20)",
         "q.look('head')",
@@ -16,19 +15,11 @@
       ],
       "transformedParts": [
         {
-          "part": "wing_open_right",
+          "part": "wings_open",
           "isVisible": false
         },
         {
-          "part": "wing_open_left",
-          "isVisible": false
-        },
-        {
-          "part": "wing_closed_right",
-          "isVisible": true
-        },
-        {
-          "part": "wing_closed_left",
+          "part": "wings_closed",
           "isVisible": true
         }
       ]
@@ -42,19 +33,11 @@
       ],
       "transformedParts": [
         {
-          "part": "wing_open_right",
+          "part": "wings_open",
           "isVisible": false
         },
         {
-          "part": "wing_open_left",
-          "isVisible": false
-        },
-        {
-          "part": "wing_closed_right",
-          "isVisible": true
-        },
-        {
-          "part": "wing_closed_left",
+          "part": "wings_closed",
           "isVisible": true
         }
       ]
@@ -62,26 +45,17 @@
     "hover": {
       "poseTypes": ["HOVER"],
       "animations": [
-        "q.pitch_tilt('body')",
         "q.look('neck', 1, 1, 70, -10, 20, -20)",
         "q.look('head')",
         "q.bedrock('fearow', 'air_idle')"
       ],
       "transformedParts": [
         {
-          "part": "wing_open_right",
+          "part": "wings_open",
           "isVisible": true
         },
         {
-          "part": "wing_open_left",
-          "isVisible": true
-        },
-        {
-          "part": "wing_closed_right",
-          "isVisible": false
-        },
-        {
-          "part": "wing_closed_left",
+          "part": "wings_closed",
           "isVisible": false
         }
       ]
@@ -94,21 +68,16 @@
         "q.look('head')",
         "q.bedrock('fearow', 'air_fly')"
       ],
+	  "quirks": [
+       "q.bedrock_quirk('fearow', 'air_fly_quirk', 1, 5	, 1)"
+     ],
       "transformedParts": [
         {
-          "part": "wing_open_right",
+          "part": "wings_open",
           "isVisible": true
         },
         {
-          "part": "wing_open_left",
-          "isVisible": true
-        },
-        {
-          "part": "wing_closed_right",
-          "isVisible": false
-        },
-        {
-          "part": "wing_closed_left",
+          "part": "wings_closed",
           "isVisible": false
         }
       ]

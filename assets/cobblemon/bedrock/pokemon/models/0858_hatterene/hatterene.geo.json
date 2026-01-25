@@ -24,6 +24,14 @@
 					]
 				},
 				{
+					"name": "locator_seat_1",
+					"parent": "body",
+					"pivot": [0, 56, 12],
+					"locators": {
+						"seat_1": [0, 56, 12]
+					}
+				},
+				{
 					"name": "body_hair_closed",
 					"parent": "body",
 					"pivot": [0, 4, 3.5],
