@@ -6,6 +6,8 @@
       "aspects": [
         "primal"
       ],
+      "poser": "cobblemon:dialga_primal",
+      "model": "cobblemon:dialga_primal.geo",
       "texture": "cobblemon:textures/pokemon/0483_dialga/dialga_primal.png",
       "layers": [
         {
