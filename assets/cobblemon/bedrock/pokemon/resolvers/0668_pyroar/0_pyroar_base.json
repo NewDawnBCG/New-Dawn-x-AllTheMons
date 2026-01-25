@@ -9,7 +9,7 @@
         "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_m.png",
         "layers": [
           {
-            "name": "pyroar_glow_m",
+            "name": "pyroar_glow",
             "emissive": true,
             "translucent": true,
             "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_m_glow.png"
@@ -20,7 +20,7 @@
         "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_m_shiny.png",
         "layers": [
           {
-                "name": "pyroar_glow_m",
+                "name": "pyroar_glow",
                 "emissive": true,
                 "translucent": true,
                 "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_m_shiny_glow.png"
