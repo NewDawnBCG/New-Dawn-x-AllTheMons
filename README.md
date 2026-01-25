@@ -101,7 +101,7 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
     - Dawnian Torchic line
     - Dawnian Mudkip line
     - New Rotom forms
-- Stewwen27 & eelimey (Swirlix Line, Spidops Unbound, Dawnian Lilligant)
+- Stewwen27 & eelimey (Spidops Unbound, Dawnian Lilligant)
 - ItsJustJ (Dawnian Sableye, Wendiglim, Dripplin, Lindcider)
 - deuli (Basketball..?, Lucky Meowth, Gen 1 Starter Mimikyus, Meloetta fixes, and 90% of bug fixes (we love you Deuli))
 - Omniv (Bug and Texture Fixes)
