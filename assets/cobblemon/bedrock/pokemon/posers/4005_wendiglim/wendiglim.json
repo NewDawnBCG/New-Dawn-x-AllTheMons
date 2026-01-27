@@ -3,7 +3,8 @@
     "portraitScale": 1,
     "portraitTranslation": [ -0.2, 1.6, 0 ],
     "profileScale": 0.6,
-    "profileTranslation": [ 0, 1, 0 ],
+    "profileTranslation": [ 0, 0.9, 0 ],
+	"rootBone": "wendiglim",
     "animations": {
         "cry": "q.bedrock_primary('wendiglim', 'cry', q.curve('symmetrical'))"
     },
@@ -13,20 +14,26 @@
             "transformTicks": 10,
             "poseTypes": ["STAND"],
             "isBattle": true,
-            "animations": ["q.bedrock('wendiglim', 'battle_idle')"]
+            "animations": [
+			"q.look('head')",
+			"q.bedrock('wendiglim', 'battle_idle')"]
         },
         "standing": {
             "poseName": "standing",
             "transformTicks": 10,
             "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
             "isBattle": false,
-            "animations": ["q.bedrock('wendiglim', 'ground_idle')"]
+            "animations": [
+			"q.look('head')",
+			"q.bedrock('wendiglim', 'ground_idle')"]
         },
         "walking": {
             "poseName": "walking",
             "transformTicks": 10,
             "poseTypes": ["WALK"],
-            "animations": ["q.bedrock('wendiglim', 'ground_walk')"]
+            "animations": [
+			"q.look('head')",
+			"q.bedrock('wendiglim', 'ground_walk')"]
         }
     }
 }
