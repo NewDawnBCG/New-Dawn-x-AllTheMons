@@ -1,0 +1,58 @@
+{
+    "species": "cobblemon:electrode",
+    "order": 2,
+    "variations": [
+        {
+            "aspects": ["cosmetic_item-basket_ball"],
+            "poser": "cobblemon:electrode",
+            "model": "cobblemon:electrode.geo",
+            "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_basket.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "emissive": true,
+                    "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_basket_emissive.png",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "aspects": ["cosmetic_item-basket_ball", "shiny"],
+            "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_basket_shiny.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "emissive": true,
+                    "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_basket_shiny_emissive.png",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "aspects": ["cosmetic_item-basket_ball", "hisuian"],
+            "poser": "cobblemon:electrode_hisuian",
+            "model": "cobblemon:electrode_hisuian.geo",
+            "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_basket.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "emissive": true,
+                    "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_basket_emissive.png",
+                    "translucent": true
+                }
+            ]
+        },
+        {
+            "aspects": ["cosmetic_item-basket_ball", "hisuian", "shiny"],
+            "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_basket_shiny.png",
+            "layers": [
+                {
+                    "name": "emissive",
+                    "emissive": true,
+                    "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_basket_shiny_emissive.png",
+                    "translucent": true
+                }
+            ]
+        }
+    ]
+}

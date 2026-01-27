@@ -1,7 +1,9 @@
 {
     "variants": {
-        "cobblemon:textures/pokemon/0101_electrode/electrode_dawnian.png" : "normal_sprite:0101_electrode_dawnian.png",
-        "cobblemon:textures/pokemon/0101_electrode/electrode_dawnian_shiny.png" : "normal_sprite:0101_electrode_dawnian_shiny.png",
+        "cobblemon:textures/pokemon/0101_electrode/electrode_basket.png" : "normal_sprite:0101_electrode_basket.png",
+        "cobblemon:textures/pokemon/0101_electrode/electrode_basket_shiny.png" : "normal_sprite:0101_electrode_basket_shiny.png",
+        "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_basket.png" : "normal_sprite:0101_electrode_hisuian_basket.png",
+        "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_basket_shiny.png" : "normal_sprite:0101_electrode_hisuian_basket_shiny.png",
         "cobblemon:textures/pokemon/0214_heracross/heracross_dawnian.png" : "normal_sprite:0214_heracross_dawnian.png",
         "cobblemon:textures/pokemon/0214_heracross/heracross_dawnian_shiny.png" : "normal_sprite:0214_heracross_dawnian_shiny.png",
         "cobblemon:textures/pokemon/0252_treecko/treecko_dawnian.png" : "normal_sprite:0252_treecko_dawnian.png",
