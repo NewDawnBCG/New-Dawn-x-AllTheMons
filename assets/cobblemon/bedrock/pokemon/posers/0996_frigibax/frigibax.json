@@ -1,11 +1,15 @@
 {
-  "portraitScale": 1.7,
-  "portraitTranslation": [ 0.2, -0.7, 0 ],
-  "profileScale": 0.8,
-  "profileTranslation": [ 0, 0.5, 0 ],
-  "poses": { 
+  "portraitScale": 1.04,
+  "portraitTranslation": [-0.1, 0.71, 0],
+  "profileScale": 0.6,
+  "profileTranslation": [0, 0.9, 0],
+  "animations": {
+
+  },
+  "poses": {
     "battle-standing": {
-      "poseTypes": ["STAND"],
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "WALK"],
       "isBattle": true,
       "animations": [
         "q.look('head')",
@@ -13,6 +17,7 @@
       ]
     },
     "standing": {
+      "transformTicks": 10,
       "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
       "isBattle": false,
       "animations": [
@@ -21,7 +26,32 @@
       ]
     },
     "walking": {
+      "transformTicks": 8,
       "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('frigibax', 'ground_walk')"
+      ]
+    },
+    "hover": {
+      "transformTicks": 5,
+      "poseTypes": [ "FLY", "HOVER", "FLOAT" ],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('frigibax', 'ground_walk')"
+       ]
+    },
+    "float": {
+      "transformTicks": 5,
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('frigibax', 'ground_walk')"
+      ]
+    },
+    "swim": {
+      "transformTicks": 8,
+      "poseTypes": ["SWIM"],
       "animations": [
         "q.look('head')",
         "q.bedrock('frigibax', 'ground_walk')"

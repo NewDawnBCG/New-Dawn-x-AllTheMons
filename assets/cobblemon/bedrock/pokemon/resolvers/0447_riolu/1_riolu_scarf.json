@@ -4,8 +4,8 @@
   "variations": [
     {
       "aspects": ["cosmetic_item-red_scarf"],
-      "poser": "cobblemon:riolupmd",
-      "model": "cobblemon:riolupmd.geo",
+      "poser": "cobblemon:riolu_atm",
+      "model": "cobblemon:riolu_atm.geo",
       "texture": "cobblemon:textures/pokemon/0447_riolu/riolupmd.png",
       "layers": []
     },
@@ -26,7 +26,7 @@
     },
     {
       "aspects": ["cosmetic_item-atmxmsd"],
-      "poser": "cobblemon:riolupmd",
+      "poser": "cobblemon:riolu_atm",
       "model": "cobblemon:riolupmd.geo",
       "texture": "cobblemon:textures/pokemon/0447_riolu/riolupmd.png",
       "layers": []

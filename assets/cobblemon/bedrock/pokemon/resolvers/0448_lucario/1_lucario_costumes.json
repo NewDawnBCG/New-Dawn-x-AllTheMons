@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": ["cafe-costume"],
-      "poser": "cobblemon:lucariocafe",
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucariocafe.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocafe.png"
     },
@@ -14,7 +14,6 @@
     },
     {
       "aspects": ["captain-costume"],
-      "poser": "cobblemon:lucariocaptain",
       "model": "cobblemon:lucariocaptain.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocaptain.png"
     },
@@ -24,7 +23,6 @@
     },
     {
       "aspects": ["chef-costume"],
-      "poser": "cobblemon:lucariochef",
       "model": "cobblemon:lucariochef.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariochef.png"
     },
@@ -34,10 +32,8 @@
     },
     {
       "aspects": ["concert-costume"],
-      "poser": "cobblemon:lucarioconcert",
       "model": "cobblemon:lucarioconcert.geo",
-      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioconcert.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioconcert.png"
     },
     {
       "aspects": ["concert-costume","shiny"],
@@ -45,7 +41,6 @@
     },
     {
       "aspects": ["holiday-costume"],
-      "poser": "cobblemon:lucarioholiday",
       "model": "cobblemon:lucarioholiday.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioholiday.png"
     },
@@ -55,7 +50,6 @@
     },
     {
       "aspects": ["martial_arts-costume"],
-      "poser": "cobblemon:lucariomartialarts",
       "model": "cobblemon:lucariomartialarts.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomartialarts.png"
     },
@@ -65,7 +59,6 @@
     },
     {
       "aspects": ["costume_party-costume"],
-      "poser": "cobblemon:lucariocostumeparty",
       "model": "cobblemon:lucariocostumeparty.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocostumeparty.png"
     },
@@ -75,7 +68,6 @@
     },
     {
       "aspects": ["ruins-costume"],
-      "poser": "cobblemon:lucarioruins",
       "model": "cobblemon:lucarioruins.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioruins.png"
     },
@@ -85,7 +77,6 @@
     },
     {
       "aspects": ["space-costume"],
-      "poser": "cobblemon:lucariospace",
       "model": "cobblemon:lucariospace.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariospace.png"
     },

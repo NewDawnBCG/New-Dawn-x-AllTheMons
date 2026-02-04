@@ -4,7 +4,7 @@
   "variations": [
     {
       "aspects": ["cosmetic_item-red_scarf"],
-      "poser": "cobblemon:lucariopmd",
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucariopmd.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariopmd.png",
       "layers": []
@@ -15,7 +15,6 @@
     },
     {
       "aspects": ["cosmetic_item-green_scarf"],
-      "poser": "cobblemon:lucariopsmd",
       "model": "cobblemon:lucariopsmd.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariopsmd.png",
       "layers": []
@@ -26,7 +25,6 @@
     },
     {
       "aspects": ["cosmetic_item-atmxmsd"],
-      "poser": "cobblemon:lucariopmd",
       "model": "cobblemon:lucariopmd.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariopmd.png",
       "layers": []
@@ -37,7 +35,6 @@
     },
     {
       "aspects": ["cosmetic_item-atmxmsd2"],
-      "poser": "cobblemon:lucariopsmd",
       "model": "cobblemon:lucariopsmd.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariopsmd.png",
       "layers": []
