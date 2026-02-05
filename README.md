@@ -2,6 +2,11 @@
 
 Download the latest file in the [Releases tab](https://github.com/NewDawnBCG/New-Dawn-x-AllTheMons/releases).
 
+This resource pack is for the **Horizon** server. If you are looking for the one for the **BigChadGuys+** or **Mayview**
+server, go to [NewDawnResourcepack](https://github.com/NewDawnBCG/NewDawnResourcepack). 
+
+### New Dawn x AllTheMons should ***NOT*** be used together with *NewDawnResourcepack*.
+
 ---
 
 Custom Cobblemon Resource Pack for the New Dawn Horizon Server! 
