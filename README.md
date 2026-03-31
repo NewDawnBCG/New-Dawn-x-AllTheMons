@@ -77,7 +77,7 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
 - [CobbleMotion](https://modrinth.com/resourcepack/cobblemotion)
 - [OJ's Animations](https://modrinth.com/resourcepack/ojs-animations)
 - [Planeta Cobblemon's Pokémon Pack](https://modrinth.com/datapack/planetas-pokemon-pack) (Only Celesteela, Iron Jugulis and Iron Boulder)
-- [CavsCobbleMons](https://modrinth.com/datapack/cavscobblemons) (Only Ting Lu, Wo Chien, Chewtle line, Tarountula line and Virizion)
+- [CavsCobbleMons](https://modrinth.com/datapack/cavscobblemons) (Only Ting Lu, Wo Chien, Tarountula line and Virizion)
 - [TDmon](https://modrinth.com/datapack/tdmon) (Only Galarian Stunfisk and Tympole line)
 - [Extra Paradox Mons](https://modrinth.com/datapack/extra-paradox-mons)
 - [Audino and Such](https://modrinth.com/datapack/audino-and-such) (Only Grox variant)
