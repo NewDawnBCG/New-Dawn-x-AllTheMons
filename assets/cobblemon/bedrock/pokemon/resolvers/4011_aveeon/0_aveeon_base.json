@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:aveeon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:aveeon",
+      "model": "cobblemon:aveeon.geo",
+      "texture": "cobblemon:textures/pokemon/4011_aveeon/aveeon.png",
+      "layers": [
+      
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "poser": "cobblemon:aveeon",
+      "model": "cobblemon:aveeon.geo",
+      "texture": "cobblemon:textures/pokemon/4011_aveeon/aveeon_shiny.png",
+      "layers": [
+       
+      ]
+    }
+  ]
+}
