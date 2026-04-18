@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:dwebble",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["dawnian", "male"],
+      "poser": "cobblemon:dwebble",
+      "model": "cobblemon:dwebble_dawnian_male.geo",
+      "texture": "cobblemon:textures/pokemon/0557_dwebble/dwebble_dawnian_male.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "dawnian", "male"],
+      "texture": "cobblemon:textures/pokemon/0557_dwebble/dwebble_dawnian_male_shiny.png"
+    }
+  ]
+}

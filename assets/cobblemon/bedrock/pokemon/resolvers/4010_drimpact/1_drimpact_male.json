@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:drimpact",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["male"],
+      "model": "cobblemon:drimpact_male.geo",
+      "texture": "cobblemon:textures/pokemon/4010_drimpact/drimpact_male.png"
+    },
+    {
+      "aspects": ["shiny", "male"],
+      "texture": "cobblemon:textures/pokemon/4010_drimpact/drimpact_male_shiny.png"
+    }
+  ]
+}

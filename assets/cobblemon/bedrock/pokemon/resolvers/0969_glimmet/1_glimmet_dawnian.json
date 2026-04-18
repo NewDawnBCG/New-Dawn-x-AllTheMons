@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:glimmet",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["dawnian"],
+      "poser": "cobblemon:glimmet_dawnian",
+      "model": "cobblemon:glimmet_dawnian.geo",
+      "texture": "cobblemon:textures/pokemon/0969_glimmet/glimmet_dawnian.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "dawnian"],
+      "texture": "cobblemon:textures/pokemon/0969_glimmet/glimmet_dawnian_shiny.png"
+    }
+  ]
+}

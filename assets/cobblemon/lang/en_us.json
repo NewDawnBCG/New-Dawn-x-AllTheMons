@@ -262,6 +262,8 @@
     "cobblemon.ui.pokedex.region.dawnian": "Dawn",
     "cobblemon.ui.pokedex.info.form.dawnian": "Dawnian",
     "cobblemon.starterselection.category.dawn": "Dawn",
+
+    "cobblemon.ui.pokedex.info.form.electrode-dawnian": "Dawnian",
     
     "cobblemon.ui.pokedex.info.form.meowth-dawnian": "Dawnian",
     
@@ -275,7 +277,7 @@
     
     "cobblemon.species.lilligant-dawnian.name": "Lilligant",
     "cobblemon.ui.pokedex.info.form.lilligant-dawnian": "Dawnian",
-    "cobblemon.species.lilligant-dawnian.desc": "This form of lilligant maintains the ecosystem using controlled wildfires and is naturally into gardening. Only found in during dawn",
+    "cobblemon.species.lilligant-dawnian.desc": "This form of Lilligant maintains the ecosystem using controlled wildfires and is naturally into gardening. Only found in during dawn",
     
     "cobblemon.ui.pokedex.info.form.ribombee": "",
     "cobblemon.ui.pokedex.info.form.ribombee-dawnian": "Dawnian",
@@ -325,9 +327,7 @@
     "cobblemon.species.ironjaws.desc1": "This Pokémon bears many similarities to a ranged weapon described in a dubious magazine. Supposedly, aliens were once able to fire this weapon from interplanetary distances.",
     "cobblemon.species.ironjaws.desc2": "Few eyewitness encounters account for a strong, voltaic current around the air of this Pokémon.",
     
-    "cobblemon.species.queentana.name": "Queentana",
-    "cobblemon.species.queentana.desc": "Legend has it the first Queentana's were female Pawniard's who joined forces after mistreatment from their Kingambit. Queentana formulates and executes brutal strategies for decisive victories. This Pokémon is often seen poaching Pawniard from rival Kingambit.",
-    
+   
     "cobblemon.species.wendiglim.name": "Wendiglim",
     "cobblemon.species.wendiglim.desc": "When the Sableyes deplete their food supply, they resort to consuming one another. Wendiglim emerges as the sole survivor, now cursed to wander alone, always seeking their next meal.",
     
@@ -377,12 +377,6 @@
     "cobblemon.species.varunalas.name": "Varunalas",
     "cobblemon.species.varunalas.desc": "Varunalas are very territorial, and will do anything to protect the volcanoes they reside on. It's insides have become a material very similar to molten glass. It's skin is boiling to the touch, and will cause severe burns if touched. It's red face plating is the only safe spot on Varunalas to touch. Its molten glass-like insides have become an unethical luxury.",
     
-    "cobblemon.species.aveeon.name": "Aveeon",
-    "cobblemon.species.aveeon.desc": "PLACEHOLDER - I'm not keeping whatever Luki had before",
-    
-    "cobblemon.species.papileon.name": "Papileon",
-    "cobblemon.species.papileon.desc": "PLACEHOLDER - I'm not keeping whatever Luki had before",
-    
     "cobblemon.species.lindcider.name": "Lindcider",
     "cobblemon.species.lindcider.desc": "Over time, the sap residing in Dripplin's juice box ferments, causing evolution. Lindcider is in a constant state of drunken induced dizziness, and has a hard time placing where it is or where it's going at times. The liquid that Lindcider produces is not safe to consume, and is highly toxic to humans.",
 
@@ -396,5 +390,26 @@
     "cobblemon.species.rotom-sound.desc": "A form in which Rotom lurks within a peculiar box. A bothersome Pokémon, causing trouble by playing loud noises day and night.",
 
     "cobblemon.ui.pokedex.info.form.rotom-vision": "Vision Rotom",
-    "cobblemon.species.rotom-vision.desc": "A form in which Rotom lurks within a unorthodox pair of goggles. A bothersome Pokémon, causing trouble by playing psychic tricks on those who wear it."
+    "cobblemon.species.rotom-vision.desc": "A form in which Rotom lurks within a unorthodox pair of goggles. A bothersome Pokémon, causing trouble by playing psychic tricks on those who wear it.",
+    
+    "cobblemon.species.aveeon.name": "Aveeon",
+    "cobblemon.species.aveeon.desc": "In regions with aggressive flying predators, Eevee's dens are often destroyed, leaving them homeless. It has been observed that Altaria has a unique connection to these Eevees, taking them under its wing. This relationship causes it to evolve to Aveeon, inheriting new features such as a cloudy makeup and winged ears.",
+    
+    "cobblemon.species.papileon.name": "Papileon",
+    "cobblemon.species.papileon.desc": "Papileon are beautiful Pokémon; it is said that seeing one can fuel a creative mind to hone its skills for years to come. Their wing-like ears sometimes fall off naturally, which causes Papileon to enter a cocoon of its own creation to regenerate. These wings can be used in fashion, but they are a very expensive material.",
+    
+    "cobblemon.species.drimpact.name": "Drimpact",
+    "cobblemon.species.drimpact.desc": "When Dwebble evolves, it learns to better utilize its found skull for a more offensive and versatile purpose. It tends to always keep a claw inside the skull to punch with deadly force. When it is in need of food, it will burrow on the ocean floor with the skeleton exposed to attract Pokémon. Drimpact is a trickster and does anything for an upper hand.",
+    
+    "cobblemon.species.glimmet_dawnian.name": "Glimmet",
+    "cobblemon.species.glimmet_dawnian.desc": "In areas with low mineral density, Glimmet will instead attach themselves to underhangs and let their petals droop to absorb microscopic minerals in the air. Glimmet are often seen at shrines and rural areas for the soothing sounds their petals make in the wind",
+    
+    "cobblemon.species.glimmora_dawnian.name": "Glimmora",
+    "cobblemon.species.glimmora_dawnian.desc": "Glimmora's petals constantly flake off in microscopic amounts that shimmer in the light. These fragments are extremely sharp and toxic, inhaling them will wreak havoc on your body.",
+    
+    "cobblemon.species.queentana.name": "Queentana",
+    "cobblemon.species.queentana.desc": "Legend has it the first Queentana's were female Pawniard's who joined forces after mistreatment from their Kingambit. Queentana formulates and executes brutal strategies for decisive victories. This Pokémon is often seen poaching Pawniard from rival Kingambit.",
+    
+    "cobblemon.ui.pokedex.info.form.musharna-mega": "Mega",
+    "cobblemon.species.musharna-mega.desc": "Exposure to mega energy has caused Musharna to enter an impossibly deep sleep. its dream mist now forms a physical membrane resembling a pokemon that doesn't exist."
 }

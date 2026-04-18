@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:papileon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:papileon",
+      "model": "cobblemon:papileon.geo",
+      "texture": "cobblemon:textures/pokemon/4012_papileon/papileon.png",
+      "layers": [
+      
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "poser": "cobblemon:papileon",
+      "model": "cobblemon:papileon.geo",
+      "texture": "cobblemon:textures/pokemon/4012_papileon/papileon_shiny.png",
+      "layers": [
+       
+      ]
+    }
+  ]
+}
