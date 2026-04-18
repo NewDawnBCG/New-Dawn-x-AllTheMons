@@ -19,6 +19,10 @@
     {
       "stack": "item:kubejs:dummy{\"mega_showdown:registry_location_component\":\"cobblemon:smog_appliance\",\"mega_showdown:registry_type_component\":\"form_change_interact\",\"minecraft:custom_model_data\":1,\"minecraft:item_name\":\u0027\"Vape Unit\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"A special Vape a specific Pokemon can enter.\"}\u0027]}",
       "after": "item:mega_showdown:rotom_oven"
+    },
+    {
+      "stack": "item:kubejs:mega_stone{\"mega_showdown:registry_location_component\":\"cobblemon:musharnaite\",\"mega_showdown:registry_type_component\":\"mega\",\"minecraft:custom_model_data\":2,\"minecraft:item_name\":\u0027\"Musharnaite\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"Allows Musharna to Mega Evolve into Mega Musharna\"}\u0027]}",
+      "after": "item:mega_showdown:mewtwonite_y"
     }
   ]
 }

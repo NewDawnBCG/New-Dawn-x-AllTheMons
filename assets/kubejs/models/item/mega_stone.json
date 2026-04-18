@@ -9,6 +9,12 @@
             "predicate": {
                 "custom_model_data": 1
             }
+        },
+        {
+            "model": "newdawn:item/musharnaite",
+            "predicate": {
+                "custom_model_data": 2
+            }
         }
     ]
 }
