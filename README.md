@@ -110,7 +110,7 @@ ATMxMSD is developed and maintained by easysqueeze, though all assets belong to 
     - Dawnian Glimmet line
     - Dawnian Dwebble line
     - Aveeon
-- Stewwen27 (Spidops Unbound, Dawnian Lilligant, Aveeon design)
+- Stewwen27 (Spidops Unbound, Dawnian Lilligant, Dawnian Luxray, Aveeon design)
 - eelimey (Spidops Unbound, Dawnian Lilligant)
 - ItsJustJ (Dawnian Sableye, Wendiglim, Dripplin, Lindcider, Papileon)
 - deuli (Basketball..?, Lucky Meowth, Gen 1 Starter Mimikyus, Meloetta fixes, and 90% of bug fixes (we love you Deuli))
