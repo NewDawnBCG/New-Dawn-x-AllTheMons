@@ -1,6 +1,6 @@
 {
   "portraitScale": 2.2,
-  "portraitTranslation": [0, -0.2, 0],
+  "portraitTranslation": [-0.4, -0.2, 0],
   "profileScale": 0.75,
   "profileTranslation": [0, 0.5, 0],
   "rootBone": "glimmet_dawnian",
@@ -57,6 +57,22 @@
      "sleep": {
       "poseTypes": ["SLEEP"],
       "animations": ["q.bedrock('glimmet_dawnian', 'sleep')"]
-    }
+    },
+       "shoulder_left": {
+     "poseTypes": ["SHOULDER_LEFT"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('glimmet_dawnian', 'shoulder_left')"
+     ],
+     "quirks": ["q.bedrock_quirk('glimmet_dawnian', 'blink')"]
+   },
+   "shoulder_right": {
+     "poseTypes": ["SHOULDER_RIGHT"],
+     "animations": [
+       "q.look('head')",
+       "q.bedrock('glimmet_dawnian', 'shoulder_right')"
+     ],
+     "quirks": ["q.bedrock_quirk('glimmet_dawnian', 'blink')"]
+   }
   }
 }

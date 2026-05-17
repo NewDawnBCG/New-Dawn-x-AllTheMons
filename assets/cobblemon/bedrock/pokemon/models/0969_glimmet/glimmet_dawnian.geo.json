@@ -13,7 +13,7 @@
 			"bones": [
 				{
 					"name": "glimmet_dawnian",
-					"pivot": [0, 2, -6.75]
+					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "body",

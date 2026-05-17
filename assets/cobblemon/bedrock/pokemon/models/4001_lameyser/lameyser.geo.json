@@ -6,7 +6,7 @@
 				"identifier": "geometry.lameyser",
 				"texture_width": 256,
 				"texture_height": 256,
-				"visible_bounds_width": 4,
+				"visible_bounds_width": 5,
 				"visible_bounds_height": 5.5,
 				"visible_bounds_offset": [0, 2.25, 0]
 			},
@@ -72,9 +72,14 @@
 						{"origin": [6, 35.9, -4.5], "size": [0, 6, 19], "pivot": [6, 35.9, -1], "rotation": [-7.5, 0, 27.5], "uv": [54, 59]},
 						{"origin": [-6, 35.9, -4.5], "size": [0, 6, 19], "pivot": [-6, 35.9, -1], "rotation": [-7.5, 0, -27.5], "uv": [54, 59], "mirror": true},
 						{"origin": [9, 36.30506, -1.9691], "size": [0, 6, 13], "pivot": [9, 36.30506, -4.4691], "rotation": [89.99998, -87.5, -89.99998], "uv": [0, 101]}
-					],
+					]
+				},
+				{
+					"name": "vapor",
+					"parent": "geyser",
+					"pivot": [9, 36.30506, -4.4691],
 					"locators": {
-						"vapor_back": [0, 48.325, 8.5]
+						"vapor": [0, 48.325, 8.5]
 					}
 				},
 				{

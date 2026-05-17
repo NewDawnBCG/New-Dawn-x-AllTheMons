@@ -17,6 +17,12 @@
 				"upper_neck": {
 					"rotation": [0, "math.sin(q.anim_time*90+90)*6", 0]
 				}
+			},
+			"particle_effects": {
+				"0.0": {
+					"effect": "lameyser_particle_handler",
+					"locator": "vapor"
+				}
 			}
 		},
 		"animation.lameyser.battle_idle": {
@@ -42,6 +48,18 @@
 				"right_fur": {
 					"rotation": [0, 0, -5]
 				}
+			},
+			"particle_effects": {
+				"0.0": [
+					{
+						"effect": "lameyser_particle_handler",
+						"locator": "vapor"
+					},
+					{
+						"effect": "lameyser_particle_handler",
+						"locator": "vapor"
+					}
+				]
 			}
 		},
 		"animation.lameyser.ground_walk": {
@@ -118,6 +136,18 @@
 				"upper_neck": {
 					"rotation": ["math.sin(q.anim_time*540+45+90)*1", "math.sin(q.anim_time*270+270)*6", 0]
 				}
+			},
+			"particle_effects": {
+				"0.0": [
+					{
+						"effect": "lameyser_particle_handler",
+						"locator": "vapor"
+					},
+					{
+						"effect": "lameyser_particle_handler",
+						"locator": "vapor"
+					}
+				]
 			}
 		},
 		"animation.lameyser.sleep": {
