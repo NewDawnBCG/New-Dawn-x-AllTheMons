@@ -23,6 +23,10 @@
     {
       "stack": "item:kubejs:mega_stone{\"mega_showdown:registry_location_component\":\"cobblemon:musharnaite\",\"mega_showdown:registry_type_component\":\"mega\",\"minecraft:custom_model_data\":2,\"minecraft:item_name\":\u0027\"Musharnaite\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"Allows Musharna to Mega Evolve into Mega Musharna\"}\u0027]}",
       "after": "item:mega_showdown:mewtwonite_y"
+    },
+    {
+      "stack": "item:kubejs:mega_stone{\"mega_showdown:registry_location_component\":\"cobblemon:dawnian_glimmoranite\",\"mega_showdown:registry_type_component\":\"mega\",\"minecraft:custom_model_data\":3,\"minecraft:item_name\":\u0027\"Dawnian Glimmoranite\"\u0027,\"minecraft:lore\":[\u0027{\"color\":\"white\",\"italic\":false,\"text\":\"Allows Dawnian Glimmora to Mega Evolve into Mega Dawnian Glimmora\"}\u0027]}",
+      "after": "item:mega_showdown:charizardite_y"
     }
   ]
 }
